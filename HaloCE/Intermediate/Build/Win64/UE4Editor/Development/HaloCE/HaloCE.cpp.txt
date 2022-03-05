@@ -1,0 +1,2 @@
+C:\Users\USER\Documents\GitHubs\HaloCE_Quirino\HaloCE\Intermediate\Build\Win64\UE4Editor\Development\HaloCE\Definitions.HaloCE.h
+C:\Users\USER\Documents\GitHubs\HaloCE_Quirino\HaloCE\Source\HaloCE\HaloCE.h

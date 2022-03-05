@@ -1,0 +1,1336 @@
+﻿Log file open, 03/05/22 12:22:44
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: HaloCE
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.291011
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz, GPU: NVIDIA GeForce GTX 1660 SUPER
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line:  -skipcompile
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.03.05-18.22.44:837][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.03.05-18.22.44:837][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.03.05-18.22.44:837][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/Saved/Config/Windows/Engine.ini]
+[2022.03.05-18.22.44:837][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.03.05-18.22.44:837][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/Saved/Config/Windows/Engine.ini]
+[2022.03.05-18.22.44:837][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/Saved/Config/Windows/Engine.ini]
+[2022.03.05-18.22.44:837][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.03.05-18.22.44:837][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.03.05-18.22.44:838][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.03.05-18.22.44:838][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.03.05-18.22.44:838][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.03.05-18.22.44:838][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.03.05-18.22.44:838][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.03.05-18.22.44:838][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.03.05-18.22.44:838][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.03.05-18.22.44:838][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.03.05-18.22.44:838][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.03.05-18.22.44:838][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.03.05-18.22.44:838][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.03.05-18.22.44:838][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.03.05-18.22.44:838][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/Saved/Config/Windows/Engine.ini]
+[2022.03.05-18.22.44:838][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.03.05-18.22.44:838][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.03.05-18.22.44:838][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.03.05-18.22.44:838][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.03.05-18.22.44:839][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.03.05-18.22.44:839][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.03.05-18.22.44:839][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.03.05-18.22.44:839][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.03.05-18.22.44:839][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.03.05-18.22.44:839][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.03.05-18.22.44:839][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.03.05-18.22.44:839][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.03.05-18.22.44:839][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.03.05-18.22.44:839][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.03.05-18.22.44:839][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/Saved/Config/Windows/Engine.ini]
+[2022.03.05-18.22.44:839][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/Saved/Config/Windows/Engine.ini]
+[2022.03.05-18.22.44:856][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/Saved/Config/Windows/Scalability.ini]
+[2022.03.05-18.22.44:856][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.03.05-18.22.44:856][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.03.05-18.22.44:856][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/Saved/Config/Windows/Scalability.ini]
+[2022.03.05-18.22.44:856][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.03.05-18.22.44:856][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/Saved/Config/Windows/Scalability.ini]
+[2022.03.05-18.22.44:856][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.03.05-18.22.44:856][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.03.05-18.22.44:857][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.03.05-18.22.44:857][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.03.05-18.22.44:857][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.03.05-18.22.44:857][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.03.05-18.22.44:857][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.03.05-18.22.44:857][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.03.05-18.22.44:857][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.03.05-18.22.44:857][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.03.05-18.22.44:857][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.03.05-18.22.44:857][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.03.05-18.22.44:857][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.03.05-18.22.44:857][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.03.05-18.22.44:857][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.03.05-18.22.44:857][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.03.05-18.22.44:857][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.03.05-18.22.44:857][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.03.05-18.22.44:857][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/Saved/Config/Windows/Scalability.ini]
+[2022.03.05-18.22.44:857][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.03.05-18.22.44:857][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.03.05-18.22.44:858][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.03.05-18.22.44:858][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.03.05-18.22.44:858][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.03.05-18.22.44:858][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.03.05-18.22.44:858][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.03.05-18.22.44:858][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.03.05-18.22.44:858][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.03.05-18.22.44:858][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.03.05-18.22.44:858][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.03.05-18.22.44:858][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.03.05-18.22.44:858][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.03.05-18.22.44:858][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.03.05-18.22.44:858][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.03.05-18.22.44:858][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.03.05-18.22.44:858][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.03.05-18.22.44:858][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.03.05-18.22.44:858][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.03.05-18.22.44:858][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.03.05-18.22.44:858][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.03.05-18.22.44:858][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.03.05-18.22.44:858][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.03.05-18.22.44:858][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.03.05-18.22.44:859][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.03.05-18.22.44:859][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.03.05-18.22.44:859][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.03.05-18.22.44:859][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.03.05-18.22.44:859][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.03.05-18.22.44:859][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.03.05-18.22.44:859][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/Saved/Config/Windows/Scalability.ini]
+[2022.03.05-18.22.44:859][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.03.05-18.22.44:859][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.03.05-18.22.44:859][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.03.05-18.22.44:859][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.03.05-18.22.44:859][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.03.05-18.22.44:859][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.03.05-18.22.44:859][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.03.05-18.22.44:859][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.03.05-18.22.44:859][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.03.05-18.22.44:859][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/Saved/Config/Windows/Scalability.ini]
+[2022.03.05-18.22.44:859][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.03.05-18.22.44:859][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.03.05-18.22.44:859][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.03.05-18.22.44:860][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.03.05-18.22.44:860][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.03.05-18.22.44:860][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.03.05-18.22.44:860][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.03.05-18.22.44:860][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.03.05-18.22.44:860][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.03.05-18.22.44:860][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.03.05-18.22.44:860][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.03.05-18.22.44:860][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.03.05-18.22.44:860][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.03.05-18.22.44:860][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.03.05-18.22.44:860][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.03.05-18.22.44:860][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.03.05-18.22.44:860][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.03.05-18.22.44:860][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.03.05-18.22.44:860][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.03.05-18.22.44:860][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.03.05-18.22.44:860][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.03.05-18.22.44:860][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.03.05-18.22.44:860][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.03.05-18.22.44:860][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.03.05-18.22.44:860][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.03.05-18.22.44:860][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.03.05-18.22.44:860][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.03.05-18.22.44:861][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.03.05-18.22.44:861][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/Saved/Config/Windows/Scalability.ini]
+[2022.03.05-18.22.44:861][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.03.05-18.22.44:861][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.03.05-18.22.44:861][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/Saved/Config/Windows/Scalability.ini]
+[2022.03.05-18.22.44:861][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.03.05-18.22.44:861][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.03.05-18.22.44:861][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.03.05-18.22.44:861][  0]LogInit: Selected Device Profile: [Windows]
+[2022.03.05-18.22.44:861][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.03.05-18.22.44:861][  0]LogHAL: Display: Platform has ~ 16 GB [17112391680 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.03.05-18.22.44:861][  0]LogInit: Going up to parent DeviceProfile []
+[2022.03.05-18.22.44:861][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/Saved/Config/Windows/Scalability.ini]
+[2022.03.05-18.22.44:861][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.03.05-18.22.44:861][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.03.05-18.22.44:861][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/Saved/Config/Windows/Scalability.ini]
+[2022.03.05-18.22.44:861][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.03.05-18.22.44:861][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/Saved/Config/Windows/Scalability.ini]
+[2022.03.05-18.22.44:861][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.03.05-18.22.44:862][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.03.05-18.22.44:862][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.03.05-18.22.44:862][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.03.05-18.22.44:862][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.03.05-18.22.44:862][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.03.05-18.22.44:862][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.03.05-18.22.44:862][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.03.05-18.22.44:862][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.03.05-18.22.44:862][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.03.05-18.22.44:862][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.03.05-18.22.44:862][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.03.05-18.22.44:862][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.03.05-18.22.44:862][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.03.05-18.22.44:862][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.03.05-18.22.44:862][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.03.05-18.22.44:862][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.03.05-18.22.44:862][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.03.05-18.22.44:862][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/Saved/Config/Windows/Scalability.ini]
+[2022.03.05-18.22.44:862][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.03.05-18.22.44:862][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.03.05-18.22.44:862][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.03.05-18.22.44:862][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.03.05-18.22.44:862][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.03.05-18.22.44:862][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.03.05-18.22.44:862][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.03.05-18.22.44:862][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.03.05-18.22.44:862][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.03.05-18.22.44:863][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.03.05-18.22.44:863][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.03.05-18.22.44:863][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.03.05-18.22.44:863][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.03.05-18.22.44:863][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.03.05-18.22.44:863][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.03.05-18.22.44:863][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.03.05-18.22.44:863][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.03.05-18.22.44:863][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.03.05-18.22.44:863][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.03.05-18.22.44:863][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.03.05-18.22.44:863][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.03.05-18.22.44:863][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.03.05-18.22.44:863][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.03.05-18.22.44:863][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.03.05-18.22.44:863][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.03.05-18.22.44:863][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.03.05-18.22.44:863][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.03.05-18.22.44:863][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.03.05-18.22.44:863][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.03.05-18.22.44:863][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.03.05-18.22.44:863][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/Saved/Config/Windows/Scalability.ini]
+[2022.03.05-18.22.44:863][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.03.05-18.22.44:863][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.03.05-18.22.44:863][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.03.05-18.22.44:864][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.03.05-18.22.44:864][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.03.05-18.22.44:864][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.03.05-18.22.44:864][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.03.05-18.22.44:864][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.03.05-18.22.44:864][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.03.05-18.22.44:864][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/Saved/Config/Windows/Scalability.ini]
+[2022.03.05-18.22.44:864][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.03.05-18.22.44:864][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.03.05-18.22.44:864][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.03.05-18.22.44:864][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.03.05-18.22.44:864][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.03.05-18.22.44:864][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.03.05-18.22.44:864][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.03.05-18.22.44:864][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.03.05-18.22.44:864][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.03.05-18.22.44:864][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.03.05-18.22.44:864][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.03.05-18.22.44:864][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.03.05-18.22.44:864][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.03.05-18.22.44:864][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.03.05-18.22.44:864][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.03.05-18.22.44:864][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.03.05-18.22.44:864][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.03.05-18.22.44:864][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.03.05-18.22.44:865][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.03.05-18.22.44:865][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.03.05-18.22.44:865][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.03.05-18.22.44:865][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.03.05-18.22.44:865][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.03.05-18.22.44:865][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.03.05-18.22.44:865][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.03.05-18.22.44:865][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.03.05-18.22.44:865][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.03.05-18.22.44:865][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.03.05-18.22.44:865][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/Saved/Config/Windows/Scalability.ini]
+[2022.03.05-18.22.44:865][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.03.05-18.22.44:865][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.03.05-18.22.44:865][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/Saved/Config/Windows/Scalability.ini]
+[2022.03.05-18.22.44:865][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.03.05-18.22.44:865][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.03.05-18.22.44:865][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.03.05-18.22.44:865][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.03.05-18.22.44:866][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.03.05-18.22.44:866][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.03.05-18.22.44:866][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.03.05-18.22.44:866][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/Saved/Config/Windows/Engine.ini]
+[2022.03.05-18.22.44:866][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/Saved/Config/Windows/Editor.ini]
+[2022.03.05-18.22.44:866][  0]LogInit: Computer: USER-PC
+[2022.03.05-18.22.44:866][  0]LogInit: User: USER
+[2022.03.05-18.22.44:866][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.03.05-18.22.44:866][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.03.05-18.22.44:866][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.03.05-18.22.44:866][  0]LogMemory: Platform Memory Stats for Windows
+[2022.03.05-18.22.44:866][  0]LogMemory: Process Physical Memory: 143.64 MB used, 143.64 MB peak
+[2022.03.05-18.22.44:866][  0]LogMemory: Process Virtual Memory: 121.98 MB used, 121.98 MB peak
+[2022.03.05-18.22.44:866][  0]LogMemory: Physical Memory: 11479.33 MB used,  4840.32 MB free, 16319.65 MB total
+[2022.03.05-18.22.44:866][  0]LogMemory: Virtual Memory: 134213368.00 MB used,  4359.82 MB free, 134217728.00 MB total
+[2022.03.05-18.22.44:919][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.03.05-18.22.45:049][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.03.05-18.22.45:051][  0]LogInit: Using OS detected language (en-US).
+[2022.03.05-18.22.45:051][  0]LogInit: Using OS detected locale (en-US).
+[2022.03.05-18.22.45:056][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2022.03.05-18.22.45:223][  0]LogInit: Setting process to per monitor DPI aware
+[2022.03.05-18.22.45:242][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.03.05-18.22.45:255][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.03.05-18.22.45:255][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.03.05-18.22.45:364][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.03.05-18.22.45:368][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.03.05-18.22.45:368][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.03.05-18.22.45:368][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.03.05-18.22.45:368][  0]LogD3D11RHI: D3D11 adapters:
+[2022.03.05-18.22.45:468][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1660 SUPER' (Feature Level 11_0)
+[2022.03.05-18.22.45:468][  0]LogD3D11RHI:       5991/0/8159 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.03.05-18.22.45:472][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.03.05-18.22.45:472][  0]LogD3D11RHI:       0/0/8159 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.03.05-18.22.45:472][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.03.05-18.22.45:472][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1660 SUPER
+[2022.03.05-18.22.45:472][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.03.05-18.22.45:472][  0]LogD3D11RHI:     DeviceId    : 21c4
+[2022.03.05-18.22.45:473][  0]LogD3D11RHI:     SubSysId    : 877e1043
+[2022.03.05-18.22.45:473][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.03.05-18.22.45:473][  0]LogD3D11RHI:     DedicatedVideoMemory : 6282018816 bytes
+[2022.03.05-18.22.45:473][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.03.05-18.22.45:473][  0]LogD3D11RHI:     SharedSystemMemory : 8556195840 bytes
+[2022.03.05-18.22.45:473][  0]LogD3D11RHI:     AdapterLuid : 0 45603
+[2022.03.05-18.22.45:478][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.03.05-18.22.45:478][  0]LogD3D11RHI:     GPU DeviceId: 0x21c4 (for the marketing name, search the web for "GPU Device Id")
+[2022.03.05-18.22.45:478][  0]LogWindows: EnumDisplayDevices:
+[2022.03.05-18.22.45:478][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1660 SUPER' (P:1 D:1)
+[2022.03.05-18.22.45:478][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1660 SUPER' (P:0 D:0)
+[2022.03.05-18.22.45:478][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1660 SUPER' (P:0 D:0)
+[2022.03.05-18.22.45:479][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1660 SUPER' (P:0 D:0)
+[2022.03.05-18.22.45:479][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.03.05-18.22.45:479][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1660 SUPER
+[2022.03.05-18.22.45:479][  0]LogD3D11RHI:   Driver Version: 511.23 (internal:30.0.15.1123, unified:511.23)
+[2022.03.05-18.22.45:479][  0]LogD3D11RHI:      Driver Date: 1-10-2022
+[2022.03.05-18.22.45:479][  0]LogRHI: Texture pool is 4193 MB (70% of 5991 MB)
+[2022.03.05-18.22.45:479][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.03.05-18.22.45:479][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1660 SUPER
+[2022.03.05-18.22.45:479][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.03.05-18.22.45:479][  0]LogD3D11RHI:     DeviceId    : 21c4
+[2022.03.05-18.22.45:479][  0]LogD3D11RHI:     SubSysId    : 877e1043
+[2022.03.05-18.22.45:479][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.03.05-18.22.45:479][  0]LogD3D11RHI:     DedicatedVideoMemory : 6282018816 bytes
+[2022.03.05-18.22.45:479][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.03.05-18.22.45:479][  0]LogD3D11RHI:     SharedSystemMemory : 8556195840 bytes
+[2022.03.05-18.22.45:479][  0]LogD3D11RHI:     AdapterLuid : 0 45603
+[2022.03.05-18.22.45:535][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.03.05-18.22.45:535][  0]LogD3D11RHI: Async texture creation enabled
+[2022.03.05-18.22.45:536][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.03.05-18.22.45:537][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061081).
+[2022.03.05-18.22.45:556][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.03.05-18.22.45:595][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.03.05-18.22.45:893][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.03.05-18.22.45:915][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.03.05-18.22.45:915][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.03.05-18.22.45:915][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.03.05-18.22.45:915][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.03.05-18.22.45:915][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.03.05-18.22.45:915][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.03.05-18.22.45:915][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.03.05-18.22.45:915][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.03.05-18.22.45:915][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.03.05-18.22.45:915][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.03.05-18.22.45:936][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.03.05-18.22.45:936][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.03.05-18.22.45:946][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.03.05-18.22.45:951][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.03.05-18.22.45:957][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.03.05-18.22.45:962][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.03.05-18.22.45:972][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.03.05-18.22.45:977][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.03.05-18.22.45:983][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.03.05-18.22.46:005][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.03.05-18.22.46:005][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.03.05-18.22.46:014][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.03.05-18.22.46:019][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.03.05-18.22.46:024][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.03.05-18.22.46:029][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.03.05-18.22.46:042][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.03.05-18.22.46:042][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.03.05-18.22.46:052][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.03.05-18.22.46:057][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.03.05-18.22.46:062][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.03.05-18.22.46:068][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.03.05-18.22.46:068][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.03.05-18.22.46:081][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.03.05-18.22.46:128][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.03.05-18.22.46:179][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.03.05-18.22.46:180][  0]LogShaderCompilers: Guid format shader working directory is -24 characters bigger than the processId version (../../../../../../Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/Intermediate/Shaders/WorkingDirectory/19908/).
+[2022.03.05-18.22.46:180][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/USER/AppData/Local/Temp/UnrealShaderWorkingDir/CA9435A7466B88B4CB203B9FB6A4C7A4/'.
+[2022.03.05-18.22.46:180][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.03.05-18.22.46:180][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.03.05-18.22.46:180][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.03.05-18.22.46:858][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.03.05-18.22.46:911][  0]LogDerivedDataCache: Loaded boot cache 0.05s 99MB C:/Users/USER/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.03.05-18.22.46:911][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/USER/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2022.03.05-18.22.46:911][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.03.05-18.22.46:911][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.03.05-18.22.46:911][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.03.05-18.22.46:911][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.03.05-18.22.46:926][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.03.05-18.22.46:926][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.03.05-18.22.46:927][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.03.05-18.22.46:933][  0]LogDerivedDataCache: Speed tests for C:/Users/USER/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.03.05-18.22.46:933][  0]LogDerivedDataCache: Display: Performance to C:/Users/USER/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=1601.80MBs, RandomWriteSpeed=174.99MBs. Assigned SpeedClass 'Local'
+[2022.03.05-18.22.46:935][  0]LogDerivedDataCache: Using Local data cache path C:/Users/USER/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.03.05-18.22.46:935][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.03.05-18.22.46:935][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.03.05-18.22.46:983][  0]LogSlate: Using FreeType 2.10.0
+[2022.03.05-18.22.46:983][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.03.05-18.22.47:005][  0]LogAssetRegistry: FAssetRegistry took 0.0038 seconds to start up
+[2022.03.05-18.22.47:204][  0]LogInit: Selected Device Profile: [Windows]
+[2022.03.05-18.22.47:204][  0]LogInit: Active device profile: [00000191E259BE00][00000191E0960580 49] Windows
+[2022.03.05-18.22.47:204][  0]LogInit: Profiles: [00000191E259BE00][00000191E0960580 49] Windows, [00000191E25FC300][00000191E0978700 49] WindowsNoEditor, [00000191E2598300][00000191E0964840 49] WindowsServer, [00000191E25FDE00][00000191D7A42980 49] WindowsClient, [00000191E2599D00][00000191E2D38AC0 49] IOS, [00000191E25FCD00][00000191E2D40C40 49] iPadAir, [00000191E2598C00][00000191E2D44DC0 49] iPadAir2, [00000191E2360600][00000191E2D51080 49] IPadPro, [00000191E2360700][00000191E2D490C0 49] iPadAir3, [00000191E2598200][00000191E2D59240 49] iPadAir4, [00000191E2363C00][00000191E2D613C0 49] iPadMini2, [00000191E2599100][00000191E2D65540 49] iPadMini3, [00000191E2361500][00000191E2D8F6C0 49] iPadMini4, [00000191E259A700][00000191E2D97840 49] iPadMini5, [00000191E22B7E00][00000191E2AC1B00 49] iPhone6, [00000191E22B7F00][00000191E2A8DB40 49] iPodTouch6, [00000191E25FF400][00000191E2C1A280 49] iPhone7, [00000191E25FEE00][00000191E2AC42C0 49] iPodTouch7, [00000191E22B4800][00000191E2C1E440 49] iPhone5S, [00000191E25FE500][00000191E2C425C0 49] iPhone6Plus, [00000191E22B7100][00000191D7A0A740 49] iPhone6S, [00000191E25FD200][00000191D7A0E8C0 49] iPhone6SPlus, [00000191E22B5000][00000191E2D3CA00 49] iPhone7Plus, [00000191E25FC700][00000191E31A4B40 49] iPhoneSE, [00000191E22B6900][00000191E31A8C80 49] iPhone8, [00000191E25FDC00][00000191E31ACDC0 49] iPhone8Plus, [00000191E22B5800][00000191D5392F40 49] iPhoneX, [00000191E25FCE00][00000191D53970C0 49] iPhoneXS, [00000191E22B6100][00000191D7A13240 49] iPhoneXSMax, [00000191E25FC200][00000191D54D33C0 49] iPhoneXR, [00000191E22B4600][00000191E2CA1540 49] iPhone11, [00000191E25FE100][00000191E2CAD6C0 49] iPhone11Pro, [00000191E22B7B00][00000191E2CB5840 49] iPhone11ProMax, [00000191E25FFD00][00000191E2CB99C0 49] iPhoneSE2, [00000191E22B4400][00000191E2CCBB40 49] iPhone12Mini, [00000191E25FC100][00000191E2CD2140 49] iPhone12, [00000191E22B7200][00000191E2CD62C0 49] iPhone12Pro, [00000191E25FC800][00000191E2D12440 49] iPhone12ProMax, [00000191E22B7D00][00000191E2D165C0 49] iPadPro105, [00000191E25FD800][00000191DF428740 49] iPadPro129, [00000191E22B6600][00000191DF42C8C0 49] iPadPro97, [00000191E25FD700][00000191DF430A40 49] iPadPro2_129, [00000191E22B6300][00000191D538EB80 49] iPad5, [00000191E25FDD00][00000191E3556CC0 49] iPad6, [00000191E22B7A00][00000191DF4A4E00 49] iPad7, [00000191E25FEA00][00000191D534AF40 49] iPad8, [00000191E22B7900][00000191D53530C0 49] iPadPro11, [00000191E25FFC00][00000191D5357240 49] iPadPro2_11, [00000191E22B7C00][00000191D535B3C0 49] iPadPro3_129, [00000191E25FF600][00000191DF4BD540 49] iPadPro4_129, [00000191E22B4A00][00000191E2C156C0 49] AppleTV, [00000191E25FF900][00000191E35A9840 49] AppleTV4K, [00000191E22B5A00][00000191E35AD9C0 49] TVOS, [00000191E25FD100][00000191E35B1B40 49] Mac, [00000191E22B5D00][00000191E35B4140 49] MacClient, [00000191E25FF000][00000191E35BC2C0 49] MacNoEditor, [00000191E22B6E00][00000191E2EC4440 49] MacServer, [00000191E25FDA00][00000191E2EC85C0 49] Linux, [00000191E22B5300][00000191E2C26740 49] LinuxAArch64, [00000191E25FF700][00000191E2C2A8C0 49] LinuxNoEditor, [00000191E22B7300][00000191E2C2EA40 49] LinuxAArch64NoEditor, [00000191E25FE300][00000191E2C22BC0 49] LinuxClient, [00000191E22B7000][00000191E35B8D40 49] LinuxAArch64Client, [00000191E25FF500][00000191D534EE80 49] LinuxServer, [00000191E22B6C00][00000191E2C32FC0 49] LinuxAArch64Server, [00000191E25FCC00][00000191E2C3F100 49] Android, [00000191E22B5600][00000191E318D280 49] Android_Low, [00000191E25FD900][00000191E3191400 49] Android_Mid, [00000191E2598400][00000191E3195580 49] Android_High, [00000191E27AD500][00000191E3199700 49] Android_Default, [00000191E259B600][00000191E319D880 49] Android_Adreno4xx, [00000191E27AE500][00000191E2CCFA00 49] Android_Adreno5xx_Low, [00000191E2599600][00000191E2C7DB80 49] Android_Adreno5xx, [00000191E27AE700][00000191E2C78180 49] Android_Adreno6xx, [00000191E2598800][00000191E2C74300 49] Android_Adreno6xx_Vulkan, [00000191E27ADE00][00000191E2C70480 49] Android_Mali_T6xx, [00000191E259A600][00000191E2C6C600 49] Android_Mali_T7xx, [00000191E27AC600][00000191D54DE780 49] Android_Mali_T8xx, [00000191E2599300][00000191D54DA900 49] Android_Mali_G71, [00000191E27AE100][00000191D54D6A80 49] Android_Mali_G72, [00000191E259AA00][00000191D54CEC00 49] Android_Mali_G72_Vulkan, [00000191E27ADC00][00000191D7A36D80 49] Android_Mali_G76, [00000191E259A100][00000191E2D92F00 49] Android_Mali_G76_Vulkan, [00000191E27ACD00][00000191E3189040 49] Android_Mali_G77, [00000191E259AB00][00000191E2D9B180 49] Android_Mali_G77_Vulkan, [00000191E27ADB00][00000191E31A12C0 49] Android_Mali_G78, [00000191E2598600][00000191D79C9440 49] Android_Mali_G78_Vulkan, [00000191E27AE300][00000191D79CD5C0 49] Android_Mali_G710, [00000191E2598E00][00000191D79D1740 49] Android_Mali_G710_Vulkan, [00000191E27AD100][00000191D79D58C0 49] Android_Vulkan_SM5, [00000191E259B700][00000191D79D9A40 49] Android_PowerVR_G6xxx, [00000191E27ACA00][00000191D79DDBC0 49] Android_PowerVR_GT7xxx, [00000191E25FED00][00000191D79E01C0 49] Android_PowerVR_GE8xxx, [00000191E27AEC00][00000191D79E4340 49] Android_PowerVR_GM9xxx, [00000191E25FF200][00000191D79E84C0 49] Android_PowerVR_GM9xxx_Vulkan, [00000191E27AE200][00000191D79EC640 49] Android_TegraK1, [00000191E25FE700][00000191D79F07C0 49] Android_Unknown_Vulkan, [00000191E27AC300][00000191D79F4940 49] Lumin, [00000191E25FFE00][00000191D79F8AC0 49] Lumin_Desktop, [00000191E27AE400][00000191D79FCC40 49] HoloLens, 
+[2022.03.05-18.22.47:337][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.03.05-18.22.47:337][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.03.05-18.22.47:337][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.03.05-18.22.47:338][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.03.05-18.22.47:338][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.03.05-18.22.47:351][  0]LogNetVersion: HaloCE 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 3265760661)
+[2022.03.05-18.22.47:650][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.03.05-18.22.47:695][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.03.05-18.22.47:700][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2022.03.05-18.22.47:700][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2022.03.05-18.22.47:700][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.03.05-18.22.47:897][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 3FC74B7048AD95F21C91B9A2EC94AC70 | Instance: 582030C24F74E00A02AC06A2D5DEDF19 (USER-PC-19908).
+[2022.03.05-18.22.48:152][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.03.05-18.22.48:161][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.03.05-18.22.48:231][  0]LogPython: Using Python 3.7.7
+[2022.03.05-18.22.49:101][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.03.05-18.22.49:131][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.03.05-18.22.49:131][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.03.05-18.22.49:276][  0]SourceControl: Source control is disabled
+[2022.03.05-18.22.49:276][  0]SourceControl: Source control is disabled
+[2022.03.05-18.22.49:280][  0]SourceControl: Source control is disabled
+[2022.03.05-18.22.49:284][  0]SourceControl: Source control is disabled
+[2022.03.05-18.22.49:292][  0]SourceControl: Source control is disabled
+[2022.03.05-18.22.49:300][  0]LogUProjectInfo: Found projects:
+[2022.03.05-18.22.49:435][  0]LogOpenImageDenoise: OIDN starting up
+[2022.03.05-18.22.49:445][  0]LogCollectionManager: Loaded 0 collections in 0.001279 seconds
+[2022.03.05-18.22.49:472][  0]LogFileCache: Scanning file cache for directory 'C:/Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/Saved/Collections/' took 0.00s
+[2022.03.05-18.22.49:472][  0]LogFileCache: Scanning file cache for directory 'C:/Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/Content/Developers/USER/Collections/' took 0.00s
+[2022.03.05-18.22.49:472][  0]LogFileCache: Scanning file cache for directory 'C:/Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/Content/Collections/' took 0.00s
+[2022.03.05-18.22.49:472][  0]LogOcInput: OculusInput pre-init called
+[2022.03.05-18.22.49:667][  0]LogEngine: Initializing Engine...
+[2022.03.05-18.22.49:671][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2022.03.05-18.22.49:671][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.03.05-18.22.49:671][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.03.05-18.22.49:672][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.03.05-18.22.49:775][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.03.05-18.22.49:785][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.03.05-18.22.49:794][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.03.05-18.22.49:799][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.03.05-18.22.49:799][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.03.05-18.22.49:800][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.03.05-18.22.49:800][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.03.05-18.22.49:800][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.05-18.22.49:800][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.05-18.22.49:800][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.05-18.22.49:800][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.05-18.22.49:800][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.05-18.22.49:800][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.05-18.22.49:800][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.05-18.22.49:800][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.05-18.22.49:800][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.05-18.22.49:800][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.05-18.22.49:800][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.05-18.22.49:800][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.05-18.22.49:816][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.05-18.22.49:816][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.03.05-18.22.49:839][  0]LogAudioMixer: Display: Using Audio Device Audífono de los auriculares con micrófono (Astro MixAmp Pro Voice)
+[2022.03.05-18.22.49:840][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.05-18.22.49:842][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.05-18.22.49:842][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.05-18.22.49:843][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.05-18.22.49:843][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.05-18.22.49:843][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.05-18.22.49:845][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.05-18.22.49:845][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.05-18.22.49:845][  0]LogInit: FAudioDevice initialized.
+[2022.03.05-18.22.49:846][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.03.05-18.22.49:846][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.03.05-18.22.49:895][  0]LogDerivedDataCache: Saved boot cache 0.05s 99MB C:/Users/USER/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.03.05-18.22.49:896][  0]LogInit: Texture streaming: Enabled
+[2022.03.05-18.22.49:911][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2022.03.05-18.22.49:915][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.03.05-18.22.49:915][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.03.05-18.22.49:917][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.03.05-18.22.49:940][  0]LogInit: Transaction tracking system initialized
+[2022.03.05-18.22.49:967][  0]BlueprintLog: New page: Editor Load
+[2022.03.05-18.22.50:040][  0]LocalizationService: Localization service is disabled
+[2022.03.05-18.22.50:069][  0]TimingProfiler: Initialize
+[2022.03.05-18.22.50:069][  0]TimingProfiler: OnSessionChanged
+[2022.03.05-18.22.50:069][  0]LoadingProfiler: Initialize
+[2022.03.05-18.22.50:069][  0]LoadingProfiler: OnSessionChanged
+[2022.03.05-18.22.50:069][  0]NetworkingProfiler: Initialize
+[2022.03.05-18.22.50:069][  0]NetworkingProfiler: OnSessionChanged
+[2022.03.05-18.22.50:069][  0]MemoryProfiler: Initialize
+[2022.03.05-18.22.50:069][  0]MemoryProfiler: OnSessionChanged
+[2022.03.05-18.22.50:206][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.03.05-18.22.50:206][  0]LogCook: Display: Mobile HDR setting 1
+[2022.03.05-18.22.50:409][  0]LogFileCache: Scanning file cache for directory 'C:/Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/Content/' took 0.01s
+[2022.03.05-18.22.50:557][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.03.05-18.22.50:560][  0]SourceControl: Source control is disabled
+[2022.03.05-18.22.50:560][  0]LogUnrealEdMisc: Loading editor; pre map load, took 7.060
+[2022.03.05-18.22.50:560][  0]Cmd: MAP LOAD FILE="../../../../../../Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.03.05-18.22.50:560][  0]LightingResults: New page: Lighting Build
+[2022.03.05-18.22.50:562][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.03.05-18.22.50:562][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.05-18.22.50:562][  0]MapCheck: New page: Map Check
+[2022.03.05-18.22.50:562][  0]LightingResults: New page: Lighting Build
+[2022.03.05-18.22.50:567][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.05-18.22.50:570][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2022.03.05-18.22.50:740][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonExampleMap'.
+[2022.03.05-18.22.50:741][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.03.05-18.22.50:750][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.03.05-18.22.50:757][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.03.05-18.22.50:757][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.03.05-18.22.50:758][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.163ms to complete.
+[2022.03.05-18.22.50:758][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.197
+[2022.03.05-18.22.50:761][  0]LogUnrealEdMisc: Total Editor Startup Time, took 7.261
+[2022.03.05-18.22.50:886][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.05-18.22.50:891][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.05-18.22.50:896][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.05-18.22.50:901][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.05-18.22.50:913][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0083 seconds. Added 3836 classes and 930 folders.
+[2022.03.05-18.22.50:915][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.03.05-18.22.50:916][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.03.05-18.22.50:916][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.05-18.22.50:916][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.03.05-18.22.50:917][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.05-18.22.50:917][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2022.03.05-18.22.50:917][  0]LogPakFile: OnPakFileMounted2Time == 0.000189
+[2022.03.05-18.22.50:917][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.03.05-18.22.50:917][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.05-18.22.50:917][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.03.05-18.22.50:918][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.05-18.22.50:918][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2022.03.05-18.22.50:918][  0]LogPakFile: OnPakFileMounted2Time == 0.000099
+[2022.03.05-18.22.50:918][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.03.05-18.22.50:918][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.05-18.22.50:918][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.03.05-18.22.50:918][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.05-18.22.50:918][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2022.03.05-18.22.50:918][  0]LogPakFile: OnPakFileMounted2Time == 0.000108
+[2022.03.05-18.22.50:919][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.05-18.22.50:919][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.05-18.22.50:919][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.03.05-18.22.50:919][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.05-18.22.50:919][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2022.03.05-18.22.50:919][  0]LogPakFile: OnPakFileMounted2Time == 0.000113
+[2022.03.05-18.22.50:920][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.03.05-18.22.50:920][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.05-18.22.50:920][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.03.05-18.22.50:920][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.05-18.22.50:920][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2022.03.05-18.22.50:920][  0]LogPakFile: OnPakFileMounted2Time == 0.000136
+[2022.03.05-18.22.50:920][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.03.05-18.22.50:921][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.05-18.22.50:921][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.03.05-18.22.50:921][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.05-18.22.50:921][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2022.03.05-18.22.50:921][  0]LogPakFile: OnPakFileMounted2Time == 0.000110
+[2022.03.05-18.22.50:921][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.03.05-18.22.50:921][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.05-18.22.50:921][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.03.05-18.22.50:921][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.05-18.22.50:921][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2022.03.05-18.22.50:922][  0]LogPakFile: OnPakFileMounted2Time == 0.000106
+[2022.03.05-18.22.50:922][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.03.05-18.22.50:922][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.05-18.22.50:922][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.03.05-18.22.50:922][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.05-18.22.50:922][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2022.03.05-18.22.50:922][  0]LogPakFile: OnPakFileMounted2Time == 0.000104
+[2022.03.05-18.22.50:923][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.03.05-18.22.50:923][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.05-18.22.50:923][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.03.05-18.22.50:923][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.05-18.22.50:923][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2022.03.05-18.22.50:923][  0]LogPakFile: OnPakFileMounted2Time == 0.000111
+[2022.03.05-18.22.50:924][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.03.05-18.22.50:924][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.05-18.22.50:924][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.03.05-18.22.50:924][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.05-18.22.50:924][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2022.03.05-18.22.50:924][  0]LogPakFile: OnPakFileMounted2Time == 0.000096
+[2022.03.05-18.22.50:924][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.03.05-18.22.50:925][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.05-18.22.50:925][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.03.05-18.22.50:925][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.05-18.22.50:925][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2022.03.05-18.22.50:925][  0]LogPakFile: OnPakFileMounted2Time == 0.000105
+[2022.03.05-18.22.50:925][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.03.05-18.22.50:925][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.05-18.22.50:925][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.03.05-18.22.50:925][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.05-18.22.50:925][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2022.03.05-18.22.50:926][  0]LogPakFile: OnPakFileMounted2Time == 0.000106
+[2022.03.05-18.22.50:926][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.05-18.22.50:926][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.05-18.22.50:926][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.03.05-18.22.50:926][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.05-18.22.50:926][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2022.03.05-18.22.50:926][  0]LogPakFile: OnPakFileMounted2Time == 0.000100
+[2022.03.05-18.22.50:927][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.03.05-18.22.50:927][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.05-18.22.50:927][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.03.05-18.22.50:927][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.05-18.22.50:927][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2022.03.05-18.22.50:927][  0]LogPakFile: OnPakFileMounted2Time == 0.000093
+[2022.03.05-18.22.50:927][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.03.05-18.22.50:927][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.05-18.22.50:928][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.03.05-18.22.50:928][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.05-18.22.50:928][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2022.03.05-18.22.50:928][  0]LogPakFile: OnPakFileMounted2Time == 0.000100
+[2022.03.05-18.22.50:928][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.03.05-18.22.50:928][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.05-18.22.50:928][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.03.05-18.22.50:928][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.05-18.22.50:928][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2022.03.05-18.22.50:928][  0]LogPakFile: OnPakFileMounted2Time == 0.000100
+[2022.03.05-18.22.50:929][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.03.05-18.22.50:929][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.05-18.22.50:929][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.03.05-18.22.50:929][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.05-18.22.50:929][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2022.03.05-18.22.50:929][  0]LogPakFile: OnPakFileMounted2Time == 0.000101
+[2022.03.05-18.22.50:930][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.03.05-18.22.50:930][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.05-18.22.50:930][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.03.05-18.22.50:930][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.05-18.22.50:930][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2022.03.05-18.22.50:930][  0]LogPakFile: OnPakFileMounted2Time == 0.000110
+[2022.03.05-18.22.50:930][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.05-18.22.50:930][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.05-18.22.50:930][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.03.05-18.22.50:931][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.05-18.22.50:931][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2022.03.05-18.22.50:931][  0]LogPakFile: OnPakFileMounted2Time == 0.000110
+[2022.03.05-18.22.50:931][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.05-18.22.50:931][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.05-18.22.50:931][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.03.05-18.22.50:931][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.05-18.22.50:931][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2022.03.05-18.22.50:931][  0]LogPakFile: OnPakFileMounted2Time == 0.000098
+[2022.03.05-18.22.50:932][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.03.05-18.22.50:932][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.05-18.22.50:932][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.03.05-18.22.50:932][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.05-18.22.50:932][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2022.03.05-18.22.50:932][  0]LogPakFile: OnPakFileMounted2Time == 0.000183
+[2022.03.05-18.22.50:933][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.03.05-18.22.50:933][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.05-18.22.50:933][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.03.05-18.22.50:933][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.05-18.22.50:933][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2022.03.05-18.22.50:933][  0]LogPakFile: OnPakFileMounted2Time == 0.000102
+[2022.03.05-18.22.50:933][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.03.05-18.22.50:933][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.05-18.22.50:934][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.03.05-18.22.50:934][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.05-18.22.50:934][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2022.03.05-18.22.50:934][  0]LogPakFile: OnPakFileMounted2Time == 0.000118
+[2022.03.05-18.22.50:934][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.03.05-18.22.50:934][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.05-18.22.50:934][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.03.05-18.22.50:934][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.05-18.22.50:934][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2022.03.05-18.22.50:934][  0]LogPakFile: OnPakFileMounted2Time == 0.000105
+[2022.03.05-18.22.50:935][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.05-18.22.50:935][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.05-18.22.50:935][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.03.05-18.22.50:935][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.05-18.22.50:935][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2022.03.05-18.22.50:935][  0]LogPakFile: OnPakFileMounted2Time == 0.000095
+[2022.03.05-18.22.50:936][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.03.05-18.22.50:936][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.05-18.22.50:936][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.03.05-18.22.50:936][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.05-18.22.50:936][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2022.03.05-18.22.50:936][  0]LogPakFile: OnPakFileMounted2Time == 0.000093
+[2022.03.05-18.22.50:973][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.03.05-18.22.50:974][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2022.03.05-18.22.51:266][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.03.05-18.22.51:345][  0]LogSlate: Took 0.000150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.03.05-18.22.51:346][  0]LogSlate: Took 0.000133 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.03.05-18.22.51:347][  0]LogSlate: Took 0.000107 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.03.05-18.22.51:420][  0]LogRenderer: Reallocating scene render targets to support 1696x832 Format 10 NumSamples 1 (Frame:1).
+[2022.03.05-18.22.51:555][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.03.05-18.22.51:555][  0]LogLoad: (Engine Initialization) Total time: 8.06 seconds
+[2022.03.05-18.22.51:555][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.03.05-18.22.51:609][  0]LogAssetRegistry: Asset discovery search completed in 4.6063 seconds
+[2022.03.05-18.22.51:614][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2022.03.05-18.22.51:615][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.03.05-18.22.52:568][103]LogSlate: Took 0.000141 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.03.05-18.22.53:116][121]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.05-18.22.53:121][121]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.05-18.22.53:121][121]PIE: New page: PIE session: FirstPersonExampleMap (Mar 5, 2022, 6:22:53 AM)
+[2022.03.05-18.22.53:123][121]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.03.05-18.22.53:125][121]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.03.05-18.22.53:125][121]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.05-18.22.53:137][121]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012129s)
+[2022.03.05-18.22.53:138][121]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.03.05-18.22.53:138][121]LogPlayLevel: PIE: World Init took: (0.001098s)
+[2022.03.05-18.22.53:139][121]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.013522s)
+[2022.03.05-18.22.53:145][121]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.03.05-18.22.53:145][121]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.03.05-18.22.53:145][121]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.05-18.22.53:145][121]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.05-18.22.53:145][121]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.05-18.22.53:145][121]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.05-18.22.53:145][121]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.05-18.22.53:146][121]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.05-18.22.53:146][121]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.05-18.22.53:146][121]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.05-18.22.53:146][121]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.05-18.22.53:146][121]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.05-18.22.53:146][121]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.05-18.22.53:146][121]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.05-18.22.53:149][121]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.05-18.22.53:149][121]LogAudioMixer: Display: 1: FrontRight
+[2022.03.05-18.22.53:158][121]LogAudioMixer: Display: Using Audio Device Audífono de los auriculares con micrófono (Astro MixAmp Pro Voice)
+[2022.03.05-18.22.53:158][121]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.05-18.22.53:158][121]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.05-18.22.53:158][121]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.05-18.22.53:158][121]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.05-18.22.53:158][121]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.05-18.22.53:158][121]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.05-18.22.53:160][121]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.05-18.22.53:160][121]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.05-18.22.53:160][121]LogInit: FAudioDevice initialized.
+[2022.03.05-18.22.53:160][121]LogAudio: Display: Audio Device (ID: 2) registered with world 'FirstPersonExampleMap'.
+[2022.03.05-18.22.53:171][121]LogLoad: Game class is 'HaloCEGameMode'
+[2022.03.05-18.22.53:174][121]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.03.05-12.22.53
+[2022.03.05-18.22.53:174][121]LogWorld: Bringing up level for play took: 0.002086
+[2022.03.05-18.22.53:174][121]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2022.03.05-18.22.53:178][121]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2022.03.05-18.22.53:180][121]PIE: Server logged in
+[2022.03.05-18.22.53:181][121]PIE: Play in editor total start time 0.061 seconds.
+[2022.03.05-18.22.53:228][124]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.53:331][131]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_1 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.53:430][143]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_2 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.53:466][147]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_3 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.53:531][155]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_4 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.53:630][167]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_5 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.53:731][179]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_6 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.53:830][191]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_7 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.53:930][203]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_8 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.54:030][215]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_9 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.54:114][225]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_10 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.54:130][227]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_11 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.54:213][237]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_12 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.54:230][239]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_13 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.54:314][249]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_14 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.54:330][251]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_15 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.54:414][261]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_16 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.54:430][263]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_17 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.54:513][273]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_18 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.54:530][275]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_19 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.54:613][285]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_20 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.54:631][287]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_21 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.54:713][297]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_22 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.54:730][299]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_23 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.54:814][309]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_24 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.54:830][311]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_25 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.54:914][321]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_26 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.54:931][323]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_27 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.55:014][333]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_28 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.55:031][335]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_29 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.55:114][345]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_30 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.55:130][347]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_31 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.55:214][357]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_32 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.55:231][359]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_33 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.55:313][369]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_34 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.55:330][371]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_35 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.55:414][381]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_36 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.55:430][383]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_37 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.55:514][393]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_38 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.55:531][395]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_39 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.55:614][405]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_40 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.55:630][407]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_41 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.55:714][417]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_42 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.55:730][419]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_43 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.55:813][429]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_44 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.55:830][431]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_45 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.55:914][441]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_46 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.55:931][443]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_47 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.56:014][453]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_48 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.56:030][455]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_49 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.56:114][465]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_50 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.56:130][467]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_51 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.56:214][477]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_52 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.56:231][479]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_53 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.56:314][489]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_54 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.56:331][491]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_55 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.56:414][501]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_56 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.56:431][503]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_57 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.56:514][513]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_58 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.56:531][515]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_59 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.56:614][525]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_60 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.56:631][527]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_61 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.56:731][539]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_62 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.56:831][551]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_63 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.56:931][563]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_64 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.57:031][575]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_65 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.57:131][587]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_66 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.57:231][599]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_67 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.57:330][611]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_68 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.57:431][623]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_69 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.57:531][635]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_70 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.57:631][647]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_71 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.57:731][659]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_72 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.57:831][671]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_73 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.57:931][683]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_74 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.58:031][695]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_75 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.58:131][707]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_76 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.58:230][719]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_77 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.58:331][731]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_78 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.58:431][743]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_79 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.58:531][755]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_80 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.58:631][767]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_81 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.58:731][779]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_82 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.58:831][791]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_83 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.58:931][803]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_84 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.59:031][815]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_85 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.59:131][827]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_86 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.59:331][851]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_87 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.59:431][863]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_88 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.59:538][874]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_89 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.59:639][886]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_90 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.59:739][898]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_91 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.59:839][910]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_92 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.22.59:939][922]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_93 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.00:039][934]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_94 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.00:098][941]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_95 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.00:138][946]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_96 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.00:239][958]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_97 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.00:298][965]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_98 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.00:339][970]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_99 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.00:439][982]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_100 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.00:539][994]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_101 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.00:639][  6]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_102 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.01:023][ 12]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_103 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.01:356][ 13]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_104 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.01:689][ 14]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_105 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.02:028][ 15]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_106 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.02:368][ 16]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_107 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.02:704][ 17]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_108 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.03:036][ 18]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_109 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.03:373][ 19]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_110 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.03:710][ 20]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_111 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.04:042][ 21]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_112 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.04:375][ 22]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_113 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.04:716][ 23]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_114 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.05:048][ 24]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_115 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.05:390][ 25]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_116 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.05:723][ 26]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_117 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.06:055][ 27]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_118 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.06:383][ 28]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_119 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.06:523][ 33]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_120 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.06:634][ 36]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_121 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.06:736][ 45]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_122 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.06:770][ 49]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_123 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.06:836][ 57]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_124 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.06:936][ 69]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_125 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.07:036][ 81]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_126 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.07:136][ 93]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_127 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.07:235][105]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_128 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.07:336][117]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_129 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.07:436][129]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_130 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.07:536][141]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_131 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.07:637][153]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_132 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.07:737][165]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_133 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.07:837][177]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_134 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.07:938][189]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_135 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.08:038][201]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_136 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.08:137][213]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_137 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.08:237][225]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_138 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.08:338][237]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_139 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.08:437][249]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_140 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.08:538][261]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_141 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.08:638][273]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_142 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.30:669][278]LogAudioMixer: Resetting audio stream to device id 
+[2022.03.05-18.23.30:674][278]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.05-18.23.30:674][278]LogAudioMixer: Display: 1: FrontRight
+[2022.03.05-18.23.30:695][278]LogAudioMixer: Resetting audio stream to device id 
+[2022.03.05-18.23.30:700][278]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.05-18.23.30:700][278]LogAudioMixer: Display: 1: FrontRight
+[2022.03.05-18.23.30:772][279]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_143 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.31:057][280]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_144 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.31:394][281]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_145 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.31:724][282]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_146 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.32:103][286]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_147 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.32:430][287]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_148 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.32:555][295]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_149 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.32:669][299]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_150 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.32:760][310]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_151 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.32:860][322]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_152 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.32:961][334]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_153 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.33:059][346]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_154 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.33:160][358]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_155 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.33:260][370]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_156 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.33:360][382]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_157 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.33:461][394]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_158 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.33:560][406]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_159 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.33:660][418]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_160 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.33:760][430]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_161 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.33:860][442]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_162 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.33:960][454]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_163 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.34:060][466]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_164 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.34:160][478]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_165 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.34:260][490]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_166 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.34:361][502]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_167 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.34:460][514]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_168 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.34:561][526]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_169 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.34:661][538]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_170 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.34:761][550]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_171 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.34:860][562]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_172 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.34:961][574]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_173 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.35:060][586]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_174 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.35:160][598]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_175 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.35:261][610]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_176 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.35:360][622]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_177 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.35:461][634]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_178 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.35:470][635]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_179 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.35:562][646]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_180 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.35:661][658]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_181 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.35:703][663]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_182 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.35:761][670]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_183 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.35:860][682]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_184 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.35:895][686]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_185 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.35:961][694]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_186 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.36:061][706]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_187 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.36:161][718]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_188 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.36:261][730]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_189 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.36:361][742]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_190 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.36:461][754]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_191 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.36:561][766]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_192 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.36:661][778]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_193 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.36:761][790]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_194 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.36:861][802]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_195 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.36:961][814]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_196 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.37:061][826]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_197 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.37:162][838]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_198 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.37:261][850]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_199 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.37:361][862]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_200 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.37:461][874]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_201 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.37:512][880]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_202 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.37:561][886]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_203 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.37:662][898]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_204 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.37:704][903]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_205 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.37:762][910]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_206 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.37:862][922]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_207 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.37:962][934]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_208 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.38:062][946]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_209 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.38:162][958]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_210 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.38:261][970]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_211 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.38:361][982]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_212 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.38:461][994]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_213 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.38:561][  6]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_214 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.38:661][ 18]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_215 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.38:862][ 42]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_216 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.38:962][ 54]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_217 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.39:061][ 66]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_218 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.39:162][ 78]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_219 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.39:262][ 90]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_220 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.39:362][102]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_221 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.39:462][114]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_222 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.39:561][126]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_223 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.39:662][138]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_224 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.39:761][150]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_225 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.39:862][162]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_226 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.39:962][174]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_227 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.40:063][186]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_228 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.40:162][198]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_229 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.40:262][210]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_230 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.40:362][222]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_231 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.40:462][234]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_232 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.40:562][246]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_233 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.40:662][258]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_234 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.40:762][270]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_235 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.40:862][282]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_236 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.23.40:982][291]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.05-18.23.40:982][291]LogWorld: BeginTearingDown for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.05-18.23.40:983][291]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.05-18.23.40:984][291]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.05-18.23.40:991][291]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.05-18.23.40:993][291]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.05-18.23.40:997][291]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.05-18.23.40:998][291]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.05-18.23.40:999][291]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.05-18.23.41:002][291]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.05-18.23.41:005][291]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.03.05-18.23.41:046][293]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2022.03.05-18.23.42:246][437]LogEditorViewport: Clicking on Actor (LMB): Elite_C (Elite)
+[2022.03.05-18.23.43:106][506]LogSlate: Took 0.004821 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.03.05-18.23.55:856][641]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrints/AI/Enemies/Enemy/EnemyBP.EnemyBP
+[2022.03.05-18.23.56:069][641]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2022.03.05-18.23.56:979][641]LogSlate: Took 0.005370 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.03.05-18.24.01:023][ 45]BlueprintLog: New page: Compile EnemyBP
+[2022.03.05-18.24.01:165][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2022.03.05-18.24.01:217][ 45]LogSlate: Took 0.007894 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.03.05-18.24.02:743][164]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.05-18.24.02:749][164]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.05-18.24.02:749][164]PIE: New page: PIE session: FirstPersonExampleMap (Mar 5, 2022, 6:24:02 AM)
+[2022.03.05-18.24.02:771][164]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.05-18.24.02:781][164]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010230s)
+[2022.03.05-18.24.02:782][164]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.03.05-18.24.02:783][164]LogPlayLevel: PIE: World Init took: (0.001266s)
+[2022.03.05-18.24.02:783][164]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.011958s)
+[2022.03.05-18.24.02:802][164]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2022.03.05-18.24.02:803][164]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.03.05-18.24.02:803][164]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.05-18.24.02:803][164]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.05-18.24.02:803][164]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.05-18.24.02:803][164]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.05-18.24.02:803][164]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.05-18.24.02:803][164]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.05-18.24.02:803][164]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.05-18.24.02:804][164]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.05-18.24.02:804][164]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.05-18.24.02:804][164]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.05-18.24.02:804][164]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.05-18.24.02:804][164]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.05-18.24.02:807][164]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.05-18.24.02:807][164]LogAudioMixer: Display: 1: FrontRight
+[2022.03.05-18.24.02:816][164]LogAudioMixer: Display: Using Audio Device Audífono de los auriculares con micrófono (Astro MixAmp Pro Voice)
+[2022.03.05-18.24.02:816][164]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.05-18.24.02:816][164]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.05-18.24.02:816][164]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.05-18.24.02:816][164]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.05-18.24.02:817][164]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.05-18.24.02:817][164]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.05-18.24.02:819][164]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.05-18.24.02:819][164]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.05-18.24.02:819][164]LogInit: FAudioDevice initialized.
+[2022.03.05-18.24.02:819][164]LogAudio: Display: Audio Device (ID: 3) registered with world 'FirstPersonExampleMap'.
+[2022.03.05-18.24.02:832][164]LogLoad: Game class is 'HaloCEGameMode'
+[2022.03.05-18.24.02:834][164]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.03.05-12.24.02
+[2022.03.05-18.24.02:835][164]LogWorld: Bringing up level for play took: 0.002026
+[2022.03.05-18.24.02:835][164]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2022.03.05-18.24.02:838][164]PIE: Server logged in
+[2022.03.05-18.24.02:839][164]PIE: Play in editor total start time 0.091 seconds.
+[2022.03.05-18.24.02:891][167]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.24.02:989][179]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_1 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.24.03:088][191]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_2 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.24.03:099][192]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_3 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.24.03:189][203]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_4 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.24.03:289][215]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_5 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.24.03:388][227]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_6 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.24.03:488][239]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_7 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.24.03:588][251]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_8 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.24.03:688][263]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_9 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.24.03:789][275]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_10 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.24.03:888][287]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_11 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.24.03:989][299]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_12 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.24.04:088][311]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_13 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.24.04:189][323]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_14 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.24.04:288][335]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_15 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.24.04:380][346]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_16 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.24.04:388][347]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_17 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.24.04:488][359]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_18 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.24.04:589][371]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_19 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.24.04:590][371]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_20 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.24.04:689][383]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_21 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.24.04:789][395]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_22 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.24.04:798][396]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_23 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.24.04:889][407]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_24 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.24.04:988][419]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_25 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.24.05:088][431]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_26 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.24.05:189][443]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_27 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.24.05:289][455]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_28 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.24.05:388][467]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_29 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.24.05:489][479]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_30 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.24.05:588][491]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_31 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.24.05:688][503]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_32 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.24.05:789][515]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_33 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.24.05:889][527]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_34 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.24.05:988][539]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_35 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.24.06:089][551]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_36 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.24.06:189][563]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_37 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.24.06:289][575]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_38 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.24.06:389][587]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_39 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.24.06:489][599]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_40 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.24.06:589][611]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_41 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.24.06:689][623]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_42 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.24.06:724][627]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_43 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.24.06:789][635]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_44 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.24.06:822][639]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_45 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.24.06:889][647]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_46 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.24.06:931][652]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_47 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.24.06:989][659]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_48 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.24.07:082][670]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_49 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.24.07:090][671]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_50 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.24.07:190][683]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_51 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.24.07:265][692]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_52 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.24.07:289][695]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_53 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.24.07:364][704]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_54 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.24.07:389][707]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_55 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.24.07:490][719]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_56 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.24.07:589][731]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_57 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.24.07:690][743]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_58 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.24.07:790][755]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_59 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.24.07:889][767]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_60 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.24.07:990][779]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_61 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.24.08:089][791]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_62 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.24.08:190][803]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_63 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.24.08:289][815]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_64 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.24.08:389][827]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_65 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.24.08:489][839]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_66 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.24.08:590][851]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_67 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.24.08:689][863]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_68 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.24.08:789][875]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_69 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.24.08:989][899]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_70 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.24.09:089][911]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_71 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.24.09:190][923]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_72 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.24.09:290][935]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_73 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.24.09:389][947]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_74 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.24.09:490][959]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_75 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.24.09:589][971]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_76 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.24.09:690][983]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_77 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.24.09:789][995]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_78 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.24.09:890][  7]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_79 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.24.09:989][ 19]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_80 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.24.10:089][ 31]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_81 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.24.10:189][ 43]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_82 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.24.10:290][ 55]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_83 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.24.10:389][ 67]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_84 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.24.10:489][ 79]LogActor: Warning: bpBullet_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.bpBullet_C_85 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.03.05-18.24.10:562][ 84]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.05-18.24.10:562][ 84]LogWorld: BeginTearingDown for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.05-18.24.10:562][ 84]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.05-18.24.10:563][ 84]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.05-18.24.10:573][ 84]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.05-18.24.10:619][ 84]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.05-18.24.10:636][ 84]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.05-18.24.10:636][ 84]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.05-18.24.10:638][ 84]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.05-18.24.10:641][ 84]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.05-18.24.10:644][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2022.03.05-18.24.10:688][ 85]LogPlayLevel: Display: Destroying online subsystem :Context_6

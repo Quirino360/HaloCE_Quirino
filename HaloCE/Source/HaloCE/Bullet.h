@@ -4,8 +4,12 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/Actor.h"
+
+#include "Math/Vector.h"
+
 #include "Bullet.generated.h"
 
+class UStaticMeshComponent;
 class USphereComponent;
 
 UCLASS()
@@ -17,12 +21,6 @@ public:
 	// Sets default values for this actor's properties
 	ABullet();
 
-private:
-
-protected:
-	float speed;
-	float damage;
-
 
 protected:
 	// Called when the game starts or when spawned
@@ -31,5 +29,28 @@ protected:
 public:	
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
+
+	UFUNCTION()
+	void SetDirection(FVector& _dir) {
+		m_direction = _dir;
+	};
+
+public:
+
+  FVector m_direction;
+
+	UPROPERTY(VisibleAnywhere, Category = "Trigger Capsule")
+	class UCapsuleComponent* TriggerCapsule;
+
+
+private:
+  UPROPERTY(EditAnywhere, Category = Mesh)
+  UStaticMeshComponent* bulletMesh;
+
+
+
+  float m_speed;
+
+  float m_damage;
 
 };

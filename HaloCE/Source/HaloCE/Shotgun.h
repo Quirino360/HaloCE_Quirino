@@ -12,7 +12,9 @@
 UCLASS()
 class HALOCE_API UShotgun : public UWeapon
 {
-	GENERATED_BODY()
-	public:
-		UShotgun();
+GENERATED_BODY()
+public:
+	UShotgun();
+
+	virtual void SpawnBullets(FRotator SpawnRotation, FVector SpawnLocation, FVector direction) override;
 };

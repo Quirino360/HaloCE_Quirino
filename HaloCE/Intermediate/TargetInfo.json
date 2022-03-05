@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "HaloCE",
+			"Path": "C:\\Users\\USER\\Documents\\GitHubs\\HaloCE_Quirino\\HaloCE\\Source\\HaloCE.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "HaloCEEditor",
+			"Path": "C:\\Users\\USER\\Documents\\GitHubs\\HaloCE_Quirino\\HaloCE\\Source\\HaloCEEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

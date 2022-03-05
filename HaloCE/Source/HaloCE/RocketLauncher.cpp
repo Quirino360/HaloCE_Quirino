@@ -5,16 +5,16 @@
 
 URocketLauncher::URocketLauncher()
 {
-  maxAmmo = 8;
-  maxAmmoCount = maxAmmo;
+  m_maxAmmo = 8;
+  m_maxAmmoCount = m_maxAmmo;
 
-  magCapacity = 2;
-  magCount = magCapacity;
+  m_magCapacity = 2;
+  m_magCount = m_magCapacity;
 
-  reloadTime = 3.0f;
-  fireRate = 1.0;
+  m_reloadTime = 3.0f;
+  m_fireRate = 1.0;
 
-  zoom = false;
-  isAutomatic = false;
-  canShoot = false;
+  m_zoom = false;
+  m_isAutomatic = false;
+  m_canShoot = false;
 }

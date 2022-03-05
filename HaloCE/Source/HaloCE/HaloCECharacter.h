@@ -4,6 +4,7 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/Character.h"
+
 #include "HaloCECharacter.generated.h"
 
 
@@ -23,131 +24,38 @@ class AHaloCECharacter : public ACharacter
 private:
 	GENERATED_BODY()
 
-	/** Pawn mesh: 1st person view (arms; seen only by self) */
-	UPROPERTY(VisibleDefaultsOnly, Category=Mesh)
-	USkeletalMeshComponent* Mesh1P;
-
-	/** Gun mesh: 1st person view (seen only by self) */
-	UPROPERTY(VisibleDefaultsOnly, Category = Mesh)
-	USkeletalMeshComponent* FP_Gun;
-
-	/** Location on gun mesh where projectiles should spawn. */
-	UPROPERTY(VisibleDefaultsOnly, Category = Mesh)
-	USceneComponent* FP_MuzzleLocation;
-
-	/** Gun mesh: VR view (attached to the VR controller directly, no arm, just the actual gun) */
-	UPROPERTY(VisibleDefaultsOnly, Category = Mesh)
-	USkeletalMeshComponent* VR_Gun;
-
-	/** Location on VR gun mesh where projectiles should spawn. */
-	UPROPERTY(VisibleDefaultsOnly, Category = Mesh)
-	USceneComponent* VR_MuzzleLocation;
-
-	/** First person camera */
-	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = Camera, meta = (AllowPrivateAccess = "true"))
-	UCameraComponent* FirstPersonCameraComponent;
-	
-
 public:
 	AHaloCECharacter();
 
 protected:
 	virtual void BeginPlay();
-
-public:
-	/** Base turn rate, in deg/sec. Other scaling may affect final turn rate. */
-	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category=Camera)
-	float BaseTurnRate;
-
-	/** Base look up/down rate, in deg/sec. Other scaling may affect final rate. */
-	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category=Camera)
-	float BaseLookUpRate;
-
-	/** Gun muzzle's offset from the characters location */
-	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category=Gameplay)
-	FVector GunOffset;
-
-	/** Projectile class to spawn */
-	UPROPERTY(EditDefaultsOnly, Category=Projectile)
-	TSubclassOf<class AHaloCEProjectile> ProjectileClass;
-
-	/** Sound to play each time we fire */
-	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Gameplay)
-	USoundBase* FireSound;
-
-	/** AnimMontage to play each time we fire */
-	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Gameplay)
-	UAnimMontage* FireAnimation;
-
-	/** Whether to use motion controller location for aiming. */
-	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Gameplay)
-	uint8 bUsingMotionControllers : 1;
-
-	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Mechanics)
-	bool isAiming;
-
-	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Weapon)
-	UWeapon* weapon;
-	
-
-	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Health)
-	float maxHeath;
-
-	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Health)
-	float currentHealth;
-
-	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Health)
-	float maxShield;
-
-	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Health)
-	float currentShield;
-
-	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Health)
-	float shieldReloadCooldown;
-
-	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Health)
-	float shieldReloadSpeed;
-
-	float fireRateTimer;
-
-protected:
 	
 	virtual void Tick(float DeltaTime);
 
 
-	/** Fires a projectile. */
+public:
+  USkeletalMeshComponent* GetMesh1P() const { return Mesh1P; }
+
+  UCameraComponent* GetFirstPersonCameraComponent() const { return FirstPersonCameraComponent; }
+
 	void OnFire();
+
 	void OffWeapon();
+
 	void ShootWeapon();
 
-	/*  */
 	void Aim();
 
-	/** Resets HMD orientation and position in VR. */
-	void OnResetVR();
-
-	/** Handles moving forward/backward */
 	void MoveForward(float Val);
 
-	/** Handles stafing movement, left and right */
 	void MoveRight(float Val);
 
-	/**
-	 * Called via input to turn at a given rate.
-	 * @param Rate	This is a normalized rate, i.e. 1.0 means 100% of desired turn rate
-	 */
 	void TurnAtRate(float Rate);
 
-	/**
-	 * Called via input to turn look up/down at a given rate.
-	 * @param Rate	This is a normalized rate, i.e. 1.0 means 100% of desired turn rate
-	 */
 	void LookUpAtRate(float Rate);
-
 
 	void Reload();
 
-	/* Aims the weapon */
 
 	struct TouchData
 	{
@@ -162,24 +70,77 @@ protected:
 	void TouchUpdate(const ETouchIndex::Type FingerIndex, const FVector Location);
 	TouchData	TouchItem;
 
-protected:
-	// APawn interface
-	virtual void SetupPlayerInputComponent(UInputComponent* InputComponent) override;
-	// End of APawn interface
 
-	/* 
-	 * Configures input for touchscreen devices if there is a valid touch interface for doing so 
-	 *
-	 * @param	InputComponent	The input component pointer to bind controls to
-	 * @returns true if touch controls were enabled.
-	 */
+  UFUNCTION()
+  void OnOverlapBegin(UPrimitiveComponent* OvelappedComponent, AActor* otherActor, UPrimitiveComponent* OtherComp, int32 OtherBodyIndex, bool bFromSweep, const  FHitResult& SweepResult);
+
+  UFUNCTION()
+  void OnOverlapEnd(UPrimitiveComponent* OvelappedComponent, AActor* otherActor, UPrimitiveComponent* OtherComp, int32 OtherBodyIndex);
+
+protected:
+	virtual void SetupPlayerInputComponent(UInputComponent* InputComponent) override;
+
 	bool EnableTouchscreenMovement(UInputComponent* InputComponent);
 
 public:
-	/** Returns Mesh1P subobject **/
-	USkeletalMeshComponent* GetMesh1P() const { return Mesh1P; }
-	/** Returns FirstPersonCameraComponent subobject **/
-	UCameraComponent* GetFirstPersonCameraComponent() const { return FirstPersonCameraComponent; }
 
+  UPROPERTY(VisibleAnywhere, Category = "Trigger Capsule")
+  class UCapsuleComponent* TriggerCapsule;
+
+  UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Gameplay)
+  FVector GunOffset;
+
+  UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Gameplay)
+  UAnimMontage* FireAnimation;
+
+  UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Weapon)
+  UWeapon* m_weapon;
+
+  UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Gameplay)
+  uint8 bUsingMotionControllers : 1;
+
+  UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = Camera)
+  float BaseTurnRate;
+
+  UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = Camera)
+  float BaseLookUpRate;
+
+  UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Mechanics)
+  bool m_isAiming;
+
+  UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Health)
+  float m_maxHeath;
+
+  UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Health)
+  float m_currentHealth;
+
+  UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Health)
+  float m_maxShield;
+
+  UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Health)
+  float m_currentShield;
+
+  UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Health)
+  float m_shieldReloadCooldown;
+
+  UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Health)
+  float m_shieldReloadSpeed;
+
+  float m_fireRateTimer;
+
+private:
+  UPROPERTY(VisibleDefaultsOnly, Category = Mesh)
+  USkeletalMeshComponent* Mesh1P;
+
+  UPROPERTY(VisibleDefaultsOnly, Category = Mesh)
+  USkeletalMeshComponent* FP_Gun;
+
+  UPROPERTY(VisibleDefaultsOnly, Category = Mesh)
+  USceneComponent* FP_MuzzleLocation;
+
+  UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = Camera, meta = (AllowPrivateAccess = "true"))
+  UCameraComponent* FirstPersonCameraComponent;
+
+protected:
 };
 

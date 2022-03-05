@@ -23,5 +23,9 @@ void AFragGrenade::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
 
+	FVector gravity = FVector(0,-9.81, 0);
+	float velocity = 15;
+	direction *= DeltaTime * velocity;
+	direction  += gravity;
 }
 

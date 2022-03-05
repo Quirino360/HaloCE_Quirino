@@ -35,12 +35,19 @@ public:
   UFUNCTION(BlueprintCallable)
   void Reload();
 
+  UFUNCTION()
+  void OnOverlapBegin(UPrimitiveComponent* OvelappedComponent, AActor* otherActor, UPrimitiveComponent* OtherComp, int32 OtherBodyIndex, bool bFromSweep, const  FHitResult& SweepResult);
+
+  UFUNCTION()
+  void OnOverlapEnd(UPrimitiveComponent* OvelappedComponent, AActor* otherActor, UPrimitiveComponent* OtherComp, int32 OtherBodyIndex);
+
+public:
   /** Projectile class to spawn */
   UPROPERTY(EditDefaultsOnly, Category = Projectile)
   TSubclassOf<class AHaloCEProjectile> ProjectileClass;
 
   /** Gun mesh: 1st person view (seen only by self) */
-  UPROPERTY(VisibleDefaultsOnly, Category = Mesh)
+  UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Mesh)
   USkeletalMeshComponent* FP_Gun;
 
   /** Location on gun mesh where projectiles should spawn. */
@@ -51,13 +58,19 @@ public:
   UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Gameplay)
   FVector GunOffset;
 
-  /** Sound to play each time we fire */
-  UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Gameplay)
-  USoundBase* FireSound;
+  UPROPERTY(VisibleAnywhere, Category = "Trigger Capsule")
+  class UCapsuleComponent* TriggerCapsule;
+
 
   UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Weapon)
-  UWeapon* weapon;
+  UWeapon* m_weapon;
 
-  float fireRateTimer;
+  float m_fireRateTimer;
+
+  float m_maxHealth;
+  float m_health;
+
+  float m_maxShield;
+  float m_shield;
 
 };

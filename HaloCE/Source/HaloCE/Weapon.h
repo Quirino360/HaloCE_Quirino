@@ -4,8 +4,14 @@
 
 #include "CoreMinimal.h"
 #include "Components/ActorComponent.h"
+
+#include "Math/Vector.h"
+#include "Math/Rotator.h"
+
 #include "Weapon.generated.h"
 
+
+class USoundBase;
 
 UCLASS( ClassGroup=(Custom), meta=(BlueprintSpawnableComponent) )
 class HALOCE_API UWeapon : public UActorComponent
@@ -16,94 +22,115 @@ public:
 	// Sets default values for this component's properties
 	UWeapon();
 
-  // All the ammo you can carry
-  UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = ammo)
-  int maxAmmo;
-
-  // All the ammo you are carrying
-  UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = ammo)
-  int maxAmmoCount;
-
-  // All the magazine the weapon can have
-  UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = ammo)
-  int magCapacity;
-
-  // The magazine the weapon has
-  UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = ammo)
-  int magCount;
-
-  UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = ammo)
-  float reloadTime;
-
-  UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = ammo)
-  float fireRate;
-
-  UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = ammo)
-  bool isAutomatic;
-
-  UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = ammo)
-  bool canShoot;
-
-  bool zoom;
-
-
-
 protected:
 	// Called when the game starts
 	virtual void BeginPlay() override;
+  virtual void SpawnBullets(FRotator SpawnRotation, FVector SpawnLocation, FVector direction);
 
 public:
 	// Called every frame
 	virtual void TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction) override;
 
   UFUNCTION(BlueprintCallable)
+  void Shoot(FRotator SpawnRotation, FVector SpawnLocation, FVector direction);
+
+  UFUNCTION(BlueprintCallable)
   void Reload();
 
+private:
+
+  /* 
+  * Getters & setters 
+  */
+public:
 	// ----- Getters
 	UFUNCTION(BlueprintCallable)
-	int GetMaxAmmo() { return maxAmmo; };
+	int GetMaxAmmo() { return m_maxAmmo; };
 
 	UFUNCTION(BlueprintCallable)
-	int GetMaxAmmoCount() { return maxAmmoCount; };
+	int GetMaxAmmoCount() { return m_maxAmmoCount; };
 
 	UFUNCTION(BlueprintCallable)
-	int GetMagCapacity() { return magCapacity; };
+	int GetMagCapacity() { return m_magCapacity; };
 
 	UFUNCTION(BlueprintCallable)
-	int GetMagCount() { return magCount; };
+	int GetMagCount() { return m_magCount; };
 
 	UFUNCTION(BlueprintCallable)
-	int GetReloadTime() { return reloadTime; };
+	int GetReloadTime() { return m_reloadTime; };
 
-	bool GetZoom() { return zoom; };
+	bool GetZoom() { return m_zoom; };
 
   UFUNCTION(BlueprintCallable)
-  bool GetCanShoot() { return canShoot; };
+  bool GetCanShoot() { return m_canShoot; };
 
   UFUNCTION(BlueprintCallable)
-  bool GetIsAutomatic() { return isAutomatic; };
+  bool GetIsAutomatic() { return m_isAutomatic; };
 
   UFUNCTION(BlueprintCallable)
-  float GetFireRate() { return fireRate; };
+  float GetFireRate() { return m_fireRate; };
 
 	// ----- Setters 
 	UFUNCTION(BlueprintCallable)
-	void SetMaxAmmo(int _maxAmmo) { maxAmmo = _maxAmmo; };
+	void SetMaxAmmo(int _maxAmmo) { m_maxAmmo = _maxAmmo; };
 
 	UFUNCTION(BlueprintCallable)
-	void SetMaxAmmoCount(int _maxAmmoCount) { maxAmmoCount = _maxAmmoCount; };
+	void SetMaxAmmoCount(int _maxAmmoCount) { m_maxAmmoCount = _maxAmmoCount; };
 
 	UFUNCTION(BlueprintCallable)
-	void SetMagCapacity(int _magCapacity) { magCapacity = _magCapacity; };
+	void SetMagCapacity(int _magCapacity) { m_magCapacity = _magCapacity; };
 
 	UFUNCTION(BlueprintCallable)
-	void SetMagCount(int _magCount) { magCount = _magCount; };
+	void SetMagCount(int _magCount) { m_magCount = _magCount; };
 
 	UFUNCTION(BlueprintCallable)
-	void SetReloadTime(int _reloadTime) { reloadTime = _reloadTime; };
+	void SetReloadTime(int _reloadTime) { m_reloadTime = _reloadTime; };
 
-  void SetCanShoot(bool _shootAuto) { canShoot = _shootAuto; };
+  UFUNCTION(BlueprintCallable)
+  void SetCanShoot(bool _shootAuto) { m_canShoot = _shootAuto; };
+
+  UFUNCTION(BlueprintCallable)
+  FVector getDirDeflection(float defRadius);
+
+public:
+    /** Sound to play each time we fire */
+  UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Gameplay)
+  USoundBase* FireSound;
+protected:
 
 
+
+  UPROPERTY(EditDefaultsOnly, Category = Bullet)
+  TSubclassOf<class ABullet> m_bullet;
+
+  // All the ammo you can carry
+  UPROPERTY(EditAnywhere, Category = ammo)
+  int m_maxAmmo;
+
+  // All the ammo you are carrying
+  UPROPERTY(EditAnywhere, Category = ammo)
+  int m_maxAmmoCount;
+
+  // All the magazine the weapon can have
+  UPROPERTY(EditAnywhere, Category = ammo)
+  int m_magCapacity;
+
+  // The magazine the weapon has
+  UPROPERTY(EditAnywhere, Category = ammo)
+  int m_magCount;
+
+  UPROPERTY(EditAnywhere, Category = ammo)
+  float m_reloadTime;
+
+  UPROPERTY(EditAnywhere, Category = ammo)
+  float m_fireRate;
+
+  UPROPERTY(EditAnywhere, Category = ammo)
+  bool m_isAutomatic;
+
+  UPROPERTY(EditAnywhere, Category = ammo)
+  bool m_canShoot;
+
+  bool m_zoom;
 
 };

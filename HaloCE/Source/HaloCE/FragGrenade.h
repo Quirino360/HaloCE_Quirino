@@ -4,6 +4,9 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/Actor.h"
+
+#include "Math/Vector.h"
+
 #include "FragGrenade.generated.h"
 
 UCLASS()
@@ -22,5 +25,8 @@ protected:
 public:	
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
+
+public:
+	FVector direction;
 
 };

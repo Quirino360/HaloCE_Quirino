@@ -1,0 +1,11 @@
+C:\Users\USER\Documents\GitHubs\HaloCE_Quirino\HaloCE\Intermediate\Build\Win64\UE4Editor\Development\HaloCE\Definitions.HaloCE.h
+C:\Users\USER\Documents\GitHubs\HaloCE_Quirino\HaloCE\Source\HaloCE\PlyrStateJump.h
+C:\Users\USER\Documents\GitHubs\HaloCE_Quirino\HaloCE\Source\HaloCE\PlyrState.h
+C:\Users\USER\Documents\GitHubs\HaloCE_Quirino\HaloCE\Source\HaloCE\HaloCECharacter.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+C:\Users\USER\Documents\GitHubs\HaloCE_Quirino\HaloCE\Intermediate\Build\Win64\UE4Editor\Inc\HaloCE\HaloCECharacter.generated.h

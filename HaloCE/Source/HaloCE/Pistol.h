@@ -16,5 +16,7 @@ class HALOCE_API UPistol : public UWeapon
 public:
 	UPistol();
 
+  virtual void SpawnBullets(FRotator SpawnRotation, FVector SpawnLocation, FVector direction) override;
+
 
 };

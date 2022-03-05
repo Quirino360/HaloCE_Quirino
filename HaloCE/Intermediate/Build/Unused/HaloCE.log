@@ -1,0 +1,12 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\USER\Documents\GitHubs\HaloCE_Quirino).
+  Building HaloCEEditor...
+  Using Visual Studio 2019 14.29.30139 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 4 actions with 12 processes...
+    [1/4] HaloCECharacter.cpp
+    [2/4] UE4Editor-HaloCE-0010.lib
+       Creating library C:\Users\USER\Documents\GitHubs\HaloCE_Quirino\HaloCE\Intermediate\Build\Win64\UE4Editor\Development\HaloCE\UE4Editor-HaloCE-0010.lib and object C:\Users\USER\Documents\GitHubs\HaloCE_Quirino\HaloCE\Intermediate\Build\Win64\UE4Editor\Development\HaloCE\UE4Editor-HaloCE-0010.exp
+    [3/4] UE4Editor-HaloCE-0010.dll
+       Creating library C:\Users\USER\Documents\GitHubs\HaloCE_Quirino\HaloCE\Intermediate\Build\Win64\UE4Editor\Development\HaloCE\UE4Editor-HaloCE-0010.suppressed.lib and object C:\Users\USER\Documents\GitHubs\HaloCE_Quirino\HaloCE\Intermediate\Build\Win64\UE4Editor\Development\HaloCE\UE4Editor-HaloCE-0010.suppressed.exp
+    [4/4] HaloCEEditor.target
+  Total time in Parallel executor: 3.14 seconds
+  Total execution time: 3.75 seconds

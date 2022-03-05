@@ -5,6 +5,7 @@
 
 #include "Kismet/GameplayStatics.h"
 //#include "Sound/SoundBase.h"
+#include "Components/CapsuleComponent.h"
 
 #include "HaloCEProjectile.h"
 
@@ -14,6 +15,7 @@
 #include "RocketLauncher.h"
 #include "Shotgun.h"
 #include "SniperRifle.h"
+#include "Bullet.h"
 
 // Sets default values
 AEnemy::AEnemy()
@@ -26,28 +28,33 @@ AEnemy::AEnemy()
   FP_Gun->SetOnlyOwnerSee(false);
   FP_Gun->bCastDynamicShadow = false;
   FP_Gun->CastShadow = false;
-  FP_Gun->SetupAttachment(RootComponent);
+
+
 
   FP_MuzzleLocation = CreateDefaultSubobject<USceneComponent>(TEXT("MuzzleLocation"));
   FP_MuzzleLocation->SetupAttachment(FP_Gun);
   FP_MuzzleLocation->SetRelativeLocation(FVector(0.2f, 48.4f, -10.6f));
 
-  // Default offset from the character location for projectiles to spawn
-  //GunOffset = FVector(100.0f, 0.0f, 10.0f);
+  m_weapon = CreateDefaultSubobject<UAssaultRifle>(TEXT("WeapComponent"));
 
-  weapon = CreateDefaultSubobject<UAssaultRifle>(TEXT("WeapComponent"));
+  m_fireRateTimer = 0;
 
-  fireRateTimer = 0;
+
+  TriggerCapsule = CreateDefaultSubobject<UCapsuleComponent>(TEXT("TriggerCapsule"));
+  TriggerCapsule->InitCapsuleSize(55.5f, 96.0f);
+  TriggerCapsule->SetCollisionProfileName(TEXT("Trigger"));
+  TriggerCapsule->SetupAttachment(RootComponent);
+
+
+  TriggerCapsule->OnComponentBeginOverlap.AddDynamic(this, &AEnemy::OnOverlapBegin);
+  TriggerCapsule->OnComponentEndOverlap.AddDynamic(this, &AEnemy::OnOverlapEnd);
 }
 
 // Called when the game starts or when spawned
 void AEnemy::BeginPlay()
 {
 	Super::BeginPlay();
-	
 
-  //Attach gun mesh component to Skeleton, doing it here because the skeleton is not yet created in the constructor
-  FP_Gun->AttachToComponent(GetMesh(), FAttachmentTransformRules(EAttachmentRule::SnapToTarget, true), TEXT("GripPoint"));
 
 }
 
@@ -56,18 +63,23 @@ void AEnemy::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
 
-  fireRateTimer += DeltaTime;
+  m_fireRateTimer += DeltaTime;
 
-
-  if (weapon->canShoot == true && weapon->isAutomatic == true && fireRateTimer >= weapon->fireRate)
+  if (m_health <= 0)
   {
-    Shoot();
-    fireRateTimer = 0;
+
   }
-  else if (weapon->canShoot == true && weapon->isAutomatic == false)
+
+
+  if (m_weapon->GetCanShoot() == true && m_weapon->GetIsAutomatic() == true && m_fireRateTimer >= m_weapon->GetFireRate())
   {
     Shoot();
-    weapon->canShoot = false;
+    m_fireRateTimer = 0;
+  }
+  else if (m_weapon->GetCanShoot() == true && m_weapon->GetIsAutomatic() == false)
+  {
+    Shoot();
+    m_weapon->SetCanShoot(false);
   }
 }
 
@@ -80,45 +92,41 @@ void AEnemy::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent)
 
 void AEnemy::Shoot()
 {
-	if (ProjectileClass != nullptr)
-	{
-		UWorld* const World = GetWorld();
-		if (World != nullptr)
-		{
-			if (weapon->GetMagCount() > 0)
-			{
+  const FRotator SpawnRotation = GetControlRotation();
 
-				const FRotator SpawnRotation = GetControlRotation();
-				// MuzzleOffset is in camera space, so transform it to world space before offsetting from the character location to find the final muzzle position
-				const FVector SpawnLocation = ((FP_MuzzleLocation != nullptr) ? FP_MuzzleLocation->GetComponentLocation() : GetActorLocation()) + SpawnRotation.RotateVector(GunOffset);
+  // MuzzleOffset is in camera space, so transform it to world space before offsetting from the character location to find the final muzzle position
+  const FVector SpawnLocation = ((FP_MuzzleLocation != nullptr) ? FP_MuzzleLocation->GetComponentLocation() : GetActorLocation()) + SpawnRotation.RotateVector(GunOffset);
 
-				//Set Spawn Collision Handling Override
-				FActorSpawnParameters ActorSpawnParams;
-        //ActorSpawnParams.SpawnCollisionHandlingOverride = ESpawnActorCollisionHandlingMethod::AdjustIfPossibleButDontSpawnIfColliding;
-        ActorSpawnParams.SpawnCollisionHandlingOverride = ESpawnActorCollisionHandlingMethod::AlwaysSpawn;
-
-				// spawn the projectile at the muzzle
-				World->SpawnActor<AHaloCEProjectile>(ProjectileClass, SpawnLocation, SpawnRotation, ActorSpawnParams);
-
-				weapon->SetMagCount(weapon->GetMagCount() - 1);
-
-			}
-			else if (weapon->maxAmmoCount > 0)
-			{
-				Reload();
-			}
-		}
-	}
-
-  // try and play the sound if specified
-  if (FireSound != nullptr)
-  {
-    UGameplayStatics::PlaySoundAtLocation(this, FireSound, GetActorLocation());
-  }
+  m_weapon->Shoot(SpawnRotation, SpawnLocation, GetActorForwardVector());
 }
 
 void AEnemy::Reload()
 {
-  weapon->Reload();
+  m_weapon->Reload();
+}
+
+void AEnemy::OnOverlapBegin(UPrimitiveComponent* OvelappedComponent, AActor* otherActor, UPrimitiveComponent* OtherComp, int32 OtherBodyIndex, bool bFromSweep, const FHitResult& SweepResult)
+{
+  if (otherActor && (otherActor != this) && OtherComp)
+  {
+    ABullet* testActor = Cast<ABullet>(otherActor);
+    if (testActor)
+    {
+      GEngine->AddOnScreenDebugMessage(-1, 5.0f, FColor::Red, TEXT("Bullet Overlaped"));
+    }
+
+    if (GEngine)
+    {
+      GEngine->AddOnScreenDebugMessage(-1, 5.0f, FColor::Red, TEXT("Begin Overlaped"));
+    }
+  }
+}
+
+void AEnemy::OnOverlapEnd(UPrimitiveComponent* OvelappedComponent, AActor* otherActor, UPrimitiveComponent* OtherComp, int32 OtherBodyIndex)
+{
+  if (GEngine)
+  {
+    //GEngine->AddOnScreenDebugMessage(-1, 5.0f, FColor::Red, TEXT("Overlap End"));
+  }
 }
 

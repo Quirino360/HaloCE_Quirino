@@ -5,16 +5,16 @@
 
 USniperRifle::USniperRifle()
 {
-  maxAmmo = 60;
-  maxAmmoCount = maxAmmo;
+  m_maxAmmo = 60;
+  m_maxAmmoCount = m_maxAmmo;
 
-  magCapacity = 12;
-  magCount = magCapacity;
+  m_magCapacity = 12;
+  m_magCount = m_magCapacity;
 
-  reloadTime = 2.5f;
-  fireRate = 1.0;
+  m_reloadTime = 2.5f;
+  m_fireRate = 1.0;
 
-  zoom = false;
-  isAutomatic = false;
-  canShoot = false;
+  m_zoom = false;
+  m_isAutomatic = false;
+  m_canShoot = false;
 }

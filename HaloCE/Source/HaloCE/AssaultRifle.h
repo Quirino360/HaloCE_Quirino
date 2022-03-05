@@ -15,4 +15,6 @@ class HALOCE_API UAssaultRifle : public UWeapon
 	GENERATED_BODY()
 public:
 	UAssaultRifle();
+
+	virtual void SpawnBullets(FRotator SpawnRotation, FVector SpawnLocation, FVector direction) override;
 };

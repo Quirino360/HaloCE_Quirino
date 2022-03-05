@@ -1,0 +1,1311 @@
+﻿Log file open, 02/05/22 01:01:57
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: HaloCE
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.854070
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz, GPU: NVIDIA GeForce GTX 1660 SUPER
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.02.05-07.01.58:612][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.02.05-07.01.58:612][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.02.05-07.01.58:612][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/Saved/Config/Windows/Engine.ini]
+[2022.02.05-07.01.58:612][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.02.05-07.01.58:612][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/Saved/Config/Windows/Engine.ini]
+[2022.02.05-07.01.58:612][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/Saved/Config/Windows/Engine.ini]
+[2022.02.05-07.01.58:612][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.02.05-07.01.58:612][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.02.05-07.01.58:612][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.02.05-07.01.58:612][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.02.05-07.01.58:612][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.02.05-07.01.58:613][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.02.05-07.01.58:613][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.02.05-07.01.58:613][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.02.05-07.01.58:613][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.02.05-07.01.58:613][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.02.05-07.01.58:613][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.02.05-07.01.58:613][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.02.05-07.01.58:613][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.02.05-07.01.58:613][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.02.05-07.01.58:613][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/Saved/Config/Windows/Engine.ini]
+[2022.02.05-07.01.58:613][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.02.05-07.01.58:613][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.02.05-07.01.58:613][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.02.05-07.01.58:613][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.02.05-07.01.58:613][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.02.05-07.01.58:613][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.02.05-07.01.58:613][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.02.05-07.01.58:613][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.02.05-07.01.58:613][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.02.05-07.01.58:613][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.02.05-07.01.58:613][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.02.05-07.01.58:613][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.02.05-07.01.58:613][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.02.05-07.01.58:613][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.02.05-07.01.58:613][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/Saved/Config/Windows/Engine.ini]
+[2022.02.05-07.01.58:613][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/Saved/Config/Windows/Engine.ini]
+[2022.02.05-07.01.58:622][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/Saved/Config/Windows/Scalability.ini]
+[2022.02.05-07.01.58:622][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.02.05-07.01.58:622][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.02.05-07.01.58:622][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/Saved/Config/Windows/Scalability.ini]
+[2022.02.05-07.01.58:622][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.02.05-07.01.58:622][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/Saved/Config/Windows/Scalability.ini]
+[2022.02.05-07.01.58:622][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.02.05-07.01.58:623][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.02.05-07.01.58:623][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.02.05-07.01.58:623][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.02.05-07.01.58:623][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.02.05-07.01.58:623][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.02.05-07.01.58:623][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.02.05-07.01.58:623][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.02.05-07.01.58:623][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.02.05-07.01.58:623][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.02.05-07.01.58:623][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.02.05-07.01.58:623][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.02.05-07.01.58:623][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.02.05-07.01.58:623][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.02.05-07.01.58:623][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.02.05-07.01.58:623][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.02.05-07.01.58:623][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.02.05-07.01.58:623][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.02.05-07.01.58:623][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/Saved/Config/Windows/Scalability.ini]
+[2022.02.05-07.01.58:623][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.02.05-07.01.58:623][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.02.05-07.01.58:623][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.02.05-07.01.58:623][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.02.05-07.01.58:623][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.02.05-07.01.58:623][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.02.05-07.01.58:623][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.02.05-07.01.58:623][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.02.05-07.01.58:623][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.02.05-07.01.58:623][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.02.05-07.01.58:623][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.02.05-07.01.58:623][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.02.05-07.01.58:623][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.02.05-07.01.58:623][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.02.05-07.01.58:623][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.02.05-07.01.58:623][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.02.05-07.01.58:623][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.02.05-07.01.58:623][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.02.05-07.01.58:623][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.02.05-07.01.58:623][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.02.05-07.01.58:623][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.02.05-07.01.58:623][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.02.05-07.01.58:623][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.02.05-07.01.58:623][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.02.05-07.01.58:623][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.02.05-07.01.58:623][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.02.05-07.01.58:623][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.02.05-07.01.58:623][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.02.05-07.01.58:623][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.02.05-07.01.58:623][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.02.05-07.01.58:623][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/Saved/Config/Windows/Scalability.ini]
+[2022.02.05-07.01.58:623][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.02.05-07.01.58:623][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.02.05-07.01.58:623][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.02.05-07.01.58:623][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.02.05-07.01.58:623][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.02.05-07.01.58:623][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.02.05-07.01.58:623][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.02.05-07.01.58:623][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.02.05-07.01.58:623][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.02.05-07.01.58:623][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/Saved/Config/Windows/Scalability.ini]
+[2022.02.05-07.01.58:623][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.02.05-07.01.58:623][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.02.05-07.01.58:623][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.02.05-07.01.58:623][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.02.05-07.01.58:623][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.02.05-07.01.58:623][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.02.05-07.01.58:623][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.02.05-07.01.58:623][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.02.05-07.01.58:623][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.02.05-07.01.58:623][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.02.05-07.01.58:623][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.02.05-07.01.58:623][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.02.05-07.01.58:623][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.02.05-07.01.58:623][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.02.05-07.01.58:623][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.02.05-07.01.58:623][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.02.05-07.01.58:623][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.02.05-07.01.58:623][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.02.05-07.01.58:623][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.02.05-07.01.58:623][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.02.05-07.01.58:623][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.02.05-07.01.58:623][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.02.05-07.01.58:623][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.02.05-07.01.58:623][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.02.05-07.01.58:623][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.02.05-07.01.58:623][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.02.05-07.01.58:623][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.02.05-07.01.58:623][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.02.05-07.01.58:623][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/Saved/Config/Windows/Scalability.ini]
+[2022.02.05-07.01.58:623][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.02.05-07.01.58:623][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.02.05-07.01.58:623][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/Saved/Config/Windows/Scalability.ini]
+[2022.02.05-07.01.58:623][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.02.05-07.01.58:623][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.02.05-07.01.58:623][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.02.05-07.01.58:624][  0]LogInit: Selected Device Profile: [Windows]
+[2022.02.05-07.01.58:625][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.02.05-07.01.58:625][  0]LogHAL: Display: Platform has ~ 16 GB [17112391680 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.02.05-07.01.58:625][  0]LogInit: Going up to parent DeviceProfile []
+[2022.02.05-07.01.58:625][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/Saved/Config/Windows/Scalability.ini]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/Saved/Config/Windows/Scalability.ini]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/Saved/Config/Windows/Scalability.ini]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/Saved/Config/Windows/Scalability.ini]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/Saved/Config/Windows/Scalability.ini]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/Saved/Config/Windows/Scalability.ini]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/Saved/Config/Windows/Scalability.ini]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.02.05-07.01.58:626][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/Saved/Config/Windows/Scalability.ini]
+[2022.02.05-07.01.58:626][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.02.05-07.01.58:627][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.02.05-07.01.58:627][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.02.05-07.01.58:627][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.02.05-07.01.58:631][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.02.05-07.01.58:631][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.02.05-07.01.58:631][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.02.05-07.01.58:631][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/Saved/Config/Windows/Engine.ini]
+[2022.02.05-07.01.58:631][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/Saved/Config/Windows/Editor.ini]
+[2022.02.05-07.01.58:632][  0]LogInit: Computer: USER-PC
+[2022.02.05-07.01.58:632][  0]LogInit: User: USER
+[2022.02.05-07.01.58:632][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.02.05-07.01.58:632][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.02.05-07.01.58:632][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.02.05-07.01.58:632][  0]LogMemory: Platform Memory Stats for Windows
+[2022.02.05-07.01.58:632][  0]LogMemory: Process Physical Memory: 144.89 MB used, 144.89 MB peak
+[2022.02.05-07.01.58:632][  0]LogMemory: Process Virtual Memory: 121.92 MB used, 121.92 MB peak
+[2022.02.05-07.01.58:632][  0]LogMemory: Physical Memory: 9368.23 MB used,  6951.41 MB free, 16319.65 MB total
+[2022.02.05-07.01.58:632][  0]LogMemory: Virtual Memory: 134205936.00 MB used,  11788.30 MB free, 134217728.00 MB total
+[2022.02.05-07.01.58:678][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.02.05-07.01.58:926][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.02.05-07.01.58:929][  0]LogInit: Using OS detected language (en-US).
+[2022.02.05-07.01.58:929][  0]LogInit: Using OS detected locale (en-US).
+[2022.02.05-07.01.58:943][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2022.02.05-07.01.59:272][  0]LogInit: Setting process to per monitor DPI aware
+[2022.02.05-07.01.59:305][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.02.05-07.01.59:347][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.02.05-07.01.59:347][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.02.05-07.02.01:726][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.02.05-07.02.01:730][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.02.05-07.02.01:730][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.02.05-07.02.01:730][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.02.05-07.02.01:730][  0]LogD3D11RHI: D3D11 adapters:
+[2022.02.05-07.02.01:832][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1660 SUPER' (Feature Level 11_0)
+[2022.02.05-07.02.01:832][  0]LogD3D11RHI:       5991/0/8159 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.02.05-07.02.01:834][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.02.05-07.02.01:834][  0]LogD3D11RHI:       0/0/8159 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.02.05-07.02.01:834][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.02.05-07.02.01:834][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1660 SUPER
+[2022.02.05-07.02.01:834][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.02.05-07.02.01:834][  0]LogD3D11RHI:     DeviceId    : 21c4
+[2022.02.05-07.02.01:834][  0]LogD3D11RHI:     SubSysId    : 877e1043
+[2022.02.05-07.02.01:834][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.02.05-07.02.01:834][  0]LogD3D11RHI:     DedicatedVideoMemory : 6282018816 bytes
+[2022.02.05-07.02.01:834][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.02.05-07.02.01:834][  0]LogD3D11RHI:     SharedSystemMemory : 8556195840 bytes
+[2022.02.05-07.02.01:834][  0]LogD3D11RHI:     AdapterLuid : 0 43591
+[2022.02.05-07.02.01:842][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.02.05-07.02.01:842][  0]LogD3D11RHI:     GPU DeviceId: 0x21c4 (for the marketing name, search the web for "GPU Device Id")
+[2022.02.05-07.02.01:842][  0]LogWindows: EnumDisplayDevices:
+[2022.02.05-07.02.01:842][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1660 SUPER' (P:1 D:1)
+[2022.02.05-07.02.01:842][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1660 SUPER' (P:0 D:0)
+[2022.02.05-07.02.01:843][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1660 SUPER' (P:0 D:0)
+[2022.02.05-07.02.01:843][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1660 SUPER' (P:0 D:0)
+[2022.02.05-07.02.01:844][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.02.05-07.02.01:844][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1660 SUPER
+[2022.02.05-07.02.01:844][  0]LogD3D11RHI:   Driver Version: 511.23 (internal:30.0.15.1123, unified:511.23)
+[2022.02.05-07.02.01:844][  0]LogD3D11RHI:      Driver Date: 1-10-2022
+[2022.02.05-07.02.01:844][  0]LogRHI: Texture pool is 4193 MB (70% of 5991 MB)
+[2022.02.05-07.02.01:844][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.02.05-07.02.01:844][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1660 SUPER
+[2022.02.05-07.02.01:844][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.02.05-07.02.01:844][  0]LogD3D11RHI:     DeviceId    : 21c4
+[2022.02.05-07.02.01:844][  0]LogD3D11RHI:     SubSysId    : 877e1043
+[2022.02.05-07.02.01:844][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.02.05-07.02.01:844][  0]LogD3D11RHI:     DedicatedVideoMemory : 6282018816 bytes
+[2022.02.05-07.02.01:844][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.02.05-07.02.01:844][  0]LogD3D11RHI:     SharedSystemMemory : 8556195840 bytes
+[2022.02.05-07.02.01:844][  0]LogD3D11RHI:     AdapterLuid : 0 43591
+[2022.02.05-07.02.01:904][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.02.05-07.02.01:905][  0]LogD3D11RHI: Async texture creation enabled
+[2022.02.05-07.02.01:905][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.02.05-07.02.01:905][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061082).
+[2022.02.05-07.02.01:969][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.02.05-07.02.02:014][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.02.05-07.02.02:394][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.02.05-07.02.02:414][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.02.05-07.02.02:414][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.02.05-07.02.02:414][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.02.05-07.02.02:414][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.02.05-07.02.02:414][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.02.05-07.02.02:414][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.02.05-07.02.02:414][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.02.05-07.02.02:414][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.02.05-07.02.02:414][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.02.05-07.02.02:414][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.02.05-07.02.02:438][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.02.05-07.02.02:438][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.02.05-07.02.02:455][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.02.05-07.02.02:460][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.02.05-07.02.02:466][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.02.05-07.02.02:472][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.02.05-07.02.02:485][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.02.05-07.02.02:491][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.02.05-07.02.02:495][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.02.05-07.02.02:522][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.02.05-07.02.02:522][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.02.05-07.02.02:537][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.02.05-07.02.02:547][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.02.05-07.02.02:552][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.02.05-07.02.02:558][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.02.05-07.02.02:568][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.02.05-07.02.02:568][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.02.05-07.02.02:579][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.02.05-07.02.02:583][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.02.05-07.02.02:588][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.02.05-07.02.02:594][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.02.05-07.02.02:594][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.02.05-07.02.02:641][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.02.05-07.02.02:710][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.02.05-07.02.02:833][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.02.05-07.02.02:835][  0]LogShaderCompilers: Guid format shader working directory is -24 characters bigger than the processId version (../../../../../../Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/Intermediate/Shaders/WorkingDirectory/18308/).
+[2022.02.05-07.02.02:835][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/USER/AppData/Local/Temp/UnrealShaderWorkingDir/45FD3C954458F39DAB4FB284576AEE5C/'.
+[2022.02.05-07.02.02:836][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.02.05-07.02.02:836][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.02.05-07.02.02:836][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.02.05-07.02.05:556][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.02.05-07.02.05:674][  0]LogDerivedDataCache: Loaded boot cache 0.12s 99MB C:/Users/USER/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.02.05-07.02.05:674][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/USER/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2022.02.05-07.02.05:675][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.02.05-07.02.05:675][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.02.05-07.02.05:675][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.02.05-07.02.05:675][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.02.05-07.02.05:700][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.02.05-07.02.05:700][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.02.05-07.02.05:700][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.02.05-07.02.05:748][  0]LogDerivedDataCache: Speed tests for C:/Users/USER/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.05 seconds
+[2022.02.05-07.02.05:748][  0]LogDerivedDataCache: Display: Performance to C:/Users/USER/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.18ms. RandomReadSpeed=22.77MBs, RandomWriteSpeed=196.85MBs. Assigned SpeedClass 'Local'
+[2022.02.05-07.02.05:749][  0]LogDerivedDataCache: Using Local data cache path C:/Users/USER/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.02.05-07.02.05:749][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.02.05-07.02.05:749][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.02.05-07.02.05:808][  0]LogSlate: Using FreeType 2.10.0
+[2022.02.05-07.02.05:823][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.02.05-07.02.05:856][  0]LogAssetRegistry: FAssetRegistry took 0.0023 seconds to start up
+[2022.02.05-07.02.06:181][  0]LogInit: Selected Device Profile: [Windows]
+[2022.02.05-07.02.06:181][  0]LogInit: Active device profile: [0000029992251400][000002998F6FE740 49] Windows
+[2022.02.05-07.02.06:181][  0]LogInit: Profiles: [0000029992251400][000002998F6FE740 49] Windows, [0000029992146400][000002998F6FA880 49] WindowsNoEditor, [0000029992251300][000002998F7029C0 49] WindowsServer, [0000029992143F00][000002998F706B00 49] WindowsClient, [0000029992147600][000002998F70EC80 49] IOS, [0000029992143000][000002998F712E00 49] iPadAir, [0000029992146800][000002998F716F80 49] iPadAir2, [00000299920F4700][000002998F71F240 49] IPadPro, [00000299920F4800][000002998F71B280 49] iPadAir3, [0000029992141F00][000002998F723400 49] iPadAir4, [00000299920F5700][000002998F727580 49] iPadMini2, [0000029992140C00][000002998F72B700 49] iPadMini3, [00000299920F6400][000002998F72F880 49] iPadMini4, [0000029992142A00][000002998F733A00 49] iPadMini5, [0000029992252400][000002998F73A140 49] iPhone6, [0000029992251000][000002998F736180 49] iPodTouch6, [0000029992145800][00000299900D2440 49] iPhone7, [0000029992147F00][00000299900CE480 49] iPodTouch7, [00000299920F7100][00000299900D6600 49] iPhone5S, [0000029992145B00][00000299900DA780 49] iPhone6Plus, [00000299920F4300][00000299900DE900 49] iPhone6S, [0000029992145C00][000002998F70AA40 49] iPhone6SPlus, [00000299920F5F00][00000299900E2B80 49] iPhone7Plus, [0000029992252600][00000299900E6CC0 49] iPhoneSE, [00000299920F7300][00000299900EEE40 49] iPhone8, [0000029992252D00][00000299900F2FC0 49] iPhone8Plus, [00000299920F5600][00000299900F7140 49] iPhoneX, [0000029992252300][00000299900FB2C0 49] iPhoneXS, [00000299920F6100][00000299900FF440 49] iPhoneXSMax, [0000029992250A00][00000299901035C0 49] iPhoneXR, [00000299920F5E00][0000029990107740 49] iPhone11, [0000029992250100][000002999010B8C0 49] iPhone11Pro, [00000299920F4A00][000002999010FA40 49] iPhone11ProMax, [0000029992251F00][0000029990113BC0 49] iPhoneSE2, [00000299920F6F00][00000299901161C0 49] iPhone12Mini, [0000029992250C00][000002999011A340 49] iPhone12, [00000299920F6500][000002999011E4C0 49] iPhone12Pro, [0000029992250E00][0000029990122640 49] iPhone12ProMax, [00000299920F4B00][00000299901267C0 49] iPadPro105, [0000029992251700][000002999012A940 49] iPadPro129, [00000299920F4600][000002999012EAC0 49] iPadPro97, [0000029992251900][00000299900EAC00 49] iPadPro2_129, [00000299920F5500][0000029990132D40 49] iPad5, [0000029992250F00][0000029990136E80 49] iPad6, [00000299920F6900][000002999013AFC0 49] iPad7, [0000029992251200][0000029990143140 49] iPad8, [00000299920F4900][00000299901472C0 49] iPadPro11, [0000029992251A00][000002999014B440 49] iPadPro2_11, [00000299920F4100][000002999014F5C0 49] iPadPro3_129, [0000029992252000][0000029990153740 49] iPadPro4_129, [00000299920F5A00][00000299901578C0 49] AppleTV, [0000029992252B00][000002999015BA40 49] AppleTV4K, [00000299920F5100][000002999015FBC0 49] TVOS, [0000029992252900][00000299901621C0 49] Mac, [00000299920F5400][0000029990166340 49] MacClient, [0000029992251100][000002999016A4C0 49] MacNoEditor, [00000299920F7600][000002999016E640 49] MacServer, [0000029992250400][00000299901727C0 49] Linux, [00000299920F6800][0000029990176940 49] LinuxAArch64, [0000029992252800][000002999017AAC0 49] LinuxNoEditor, [00000299920F6D00][000002999017EC40 49] LinuxAArch64NoEditor, [0000029992250200][000002999013ED80 49] LinuxClient, [00000299920F4200][0000029990182EC0 49] LinuxAArch64Client, [0000029992250800][0000029990187000 49] LinuxServer, [0000029992141200][000002999018B140 49] LinuxAArch64Server, [0000029992146D00][00000299901932C0 49] Android, [0000029992142800][0000029990197440 49] Android_Low, [0000029992147900][000002999019B5C0 49] Android_Mid, [0000029992143500][000002999019F740 49] Android_High, [0000029992145600][00000299901A38C0 49] Android_Default, [0000029992143100][00000299901A7A40 49] Android_Adreno4xx, [0000029992147300][00000299901ABBC0 49] Android_Adreno5xx_Low, [0000029992140500][00000299901AE1C0 49] Android_Adreno5xx, [0000029992146F00][00000299901B2340 49] Android_Adreno6xx, [0000029992143D00][00000299901B64C0 49] Android_Adreno6xx_Vulkan, [0000029992144800][00000299901BA640 49] Android_Mali_T6xx, [0000029992141100][00000299901BE7C0 49] Android_Mali_T7xx, [0000029992146E00][00000299901C2940 49] Android_Mali_T8xx, [0000029992140100][00000299901C6AC0 49] Android_Mali_G71, [0000029992147800][00000299901CAC40 49] Android_Mali_G72, [0000029992143800][00000299901CEDC0 49] Android_Mali_G72_Vulkan, [0000029992147A00][00000299901D2F40 49] Android_Mali_G76, [0000029992140A00][000002999018F080 49] Android_Mali_G76_Vulkan, [0000029992146200][00000299901D71C0 49] Android_Mali_G77, [0000029992141500][00000299901DB300 49] Android_Mali_G77_Vulkan, [0000029992144600][00000299901E3480 49] Android_Mali_G78, [0000029992141A00][00000299901E7600 49] Android_Mali_G78_Vulkan, [0000029992144700][00000299901EB780 49] Android_Mali_G710, [0000029992140400][00000299901EF900 49] Android_Mali_G710_Vulkan, [0000029992145400][00000299901F3A80 49] Android_Vulkan_SM5, [0000029992143200][00000299901F7C00 49] Android_PowerVR_G6xxx, [0000029992146500][00000299901FA200 49] Android_PowerVR_GT7xxx, [0000029992143C00][00000299901FE380 49] Android_PowerVR_GE8xxx, [0000029992144200][0000029990202500 49] Android_PowerVR_GM9xxx, [0000029992143700][0000029990206680 49] Android_PowerVR_GM9xxx_Vulkan, [0000029992144F00][000002999020A800 49] Android_TegraK1, [0000029992142C00][000002999020E980 49] Android_Unknown_Vulkan, [0000029992147200][0000029990212B00 49] Lumin, [0000029992250900][0000029990216C80 49] Lumin_Desktop, [0000029992146300][000002999021AE00 49] HoloLens, 
+[2022.02.05-07.02.06:463][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.02.05-07.02.06:463][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.02.05-07.02.06:463][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.02.05-07.02.06:463][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.02.05-07.02.06:464][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.02.05-07.02.06:531][  0]LogNetVersion: HaloCE 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 3265760661)
+[2022.02.05-07.02.07:746][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.02.05-07.02.07:890][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.02.05-07.02.07:897][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2022.02.05-07.02.07:897][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2022.02.05-07.02.07:897][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.02.05-07.02.08:576][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: D852892D4AF2E9209B4C58AF29676B34 | Instance: C45E4EB4460C5662D6742CAE94160575 (USER-PC-18308).
+[2022.02.05-07.02.08:671][  0]LogPython: Using Python 3.7.7
+[2022.02.05-07.02.09:589][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.02.05-07.02.09:595][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.02.05-07.02.10:522][  0]SourceControl: Source control is disabled
+[2022.02.05-07.02.10:522][  0]SourceControl: Source control is disabled
+[2022.02.05-07.02.10:531][  0]SourceControl: Source control is disabled
+[2022.02.05-07.02.10:534][  0]SourceControl: Source control is disabled
+[2022.02.05-07.02.10:550][  0]SourceControl: Source control is disabled
+[2022.02.05-07.02.10:557][  0]LogUProjectInfo: Found projects:
+[2022.02.05-07.02.10:839][  0]LogOpenImageDenoise: OIDN starting up
+[2022.02.05-07.02.10:896][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.02.05-07.02.10:928][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.02.05-07.02.10:928][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.02.05-07.02.11:316][  0]LogCollectionManager: Loaded 0 collections in 0.001949 seconds
+[2022.02.05-07.02.11:367][  0]LogFileCache: Scanning file cache for directory 'C:/Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/Saved/Collections/' took 0.00s
+[2022.02.05-07.02.11:367][  0]LogFileCache: Scanning file cache for directory 'C:/Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/Content/Developers/USER/Collections/' took 0.00s
+[2022.02.05-07.02.11:367][  0]LogFileCache: Scanning file cache for directory 'C:/Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/Content/Collections/' took 0.00s
+[2022.02.05-07.02.11:367][  0]LogOcInput: OculusInput pre-init called
+[2022.02.05-07.02.11:774][  0]LogEngine: Initializing Engine...
+[2022.02.05-07.02.11:825][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2022.02.05-07.02.11:826][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.02.05-07.02.11:826][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.02.05-07.02.11:833][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.003 s
+[2022.02.05-07.02.12:138][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.02.05-07.02.12:203][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.02.05-07.02.12:223][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.02.05-07.02.12:227][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.02.05-07.02.12:232][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.02.05-07.02.12:232][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.02.05-07.02.12:232][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.02.05-07.02.12:234][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.05-07.02.12:234][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.05-07.02.12:234][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.05-07.02.12:234][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.05-07.02.12:234][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.05-07.02.12:234][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.05-07.02.12:234][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.05-07.02.12:234][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.05-07.02.12:237][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.05-07.02.12:237][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.05-07.02.12:237][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.05-07.02.12:238][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.05-07.02.12:256][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.05-07.02.12:256][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.02.05-07.02.12:269][  0]LogAudioMixer: Display: Using Audio Device Audífono de los auriculares con micrófono (Astro MixAmp Pro Voice)
+[2022.02.05-07.02.12:273][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.05-07.02.12:294][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.05-07.02.12:295][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.05-07.02.12:297][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.05-07.02.12:298][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.05-07.02.12:298][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.05-07.02.12:298][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.05-07.02.12:298][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.05-07.02.12:298][  0]LogInit: FAudioDevice initialized.
+[2022.02.05-07.02.12:301][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.02.05-07.02.12:302][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.02.05-07.02.12:348][  0]LogDerivedDataCache: Saved boot cache 0.04s 99MB C:/Users/USER/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.02.05-07.02.12:348][  0]LogInit: Texture streaming: Enabled
+[2022.02.05-07.02.12:369][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2022.02.05-07.02.12:386][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.02.05-07.02.12:387][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.02.05-07.02.12:390][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.02.05-07.02.12:431][  0]LogInit: Transaction tracking system initialized
+[2022.02.05-07.02.12:465][  0]BlueprintLog: New page: Editor Load
+[2022.02.05-07.02.12:582][  0]LocalizationService: Localization service is disabled
+[2022.02.05-07.02.12:631][  0]TimingProfiler: Initialize
+[2022.02.05-07.02.12:632][  0]TimingProfiler: OnSessionChanged
+[2022.02.05-07.02.12:632][  0]LoadingProfiler: Initialize
+[2022.02.05-07.02.12:633][  0]LoadingProfiler: OnSessionChanged
+[2022.02.05-07.02.12:634][  0]NetworkingProfiler: Initialize
+[2022.02.05-07.02.12:642][  0]NetworkingProfiler: OnSessionChanged
+[2022.02.05-07.02.12:642][  0]MemoryProfiler: Initialize
+[2022.02.05-07.02.12:642][  0]MemoryProfiler: OnSessionChanged
+[2022.02.05-07.02.13:101][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.02.05-07.02.13:101][  0]LogCook: Display: Mobile HDR setting 1
+[2022.02.05-07.02.13:429][  0]LogFileCache: Scanning file cache for directory 'C:/Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/Content/' took 0.01s
+[2022.02.05-07.02.13:584][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.02.05-07.02.13:593][  0]SourceControl: Source control is disabled
+[2022.02.05-07.02.13:593][  0]LogUnrealEdMisc: Loading editor; pre map load, took 18.067
+[2022.02.05-07.02.13:595][  0]Cmd: MAP LOAD FILE="../../../../../../Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.02.05-07.02.13:596][  0]LightingResults: New page: Lighting Build
+[2022.02.05-07.02.13:602][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.02.05-07.02.13:604][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.05-07.02.13:608][  0]MapCheck: New page: Map Check
+[2022.02.05-07.02.13:608][  0]LightingResults: New page: Lighting Build
+[2022.02.05-07.02.13:622][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.05-07.02.13:639][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2022.02.05-07.02.13:803][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonExampleMap'.
+[2022.02.05-07.02.13:804][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.02.05-07.02.13:858][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.02.05-07.02.13:880][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.02.05-07.02.13:882][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.02.05-07.02.13:882][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.8ms to complete.
+[2022.02.05-07.02.13:883][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.289
+[2022.02.05-07.02.13:935][  0]LogUnrealEdMisc: Total Editor Startup Time, took 18.409
+[2022.02.05-07.02.14:129][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.05-07.02.14:136][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.05-07.02.14:141][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.05-07.02.14:147][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.05-07.02.14:191][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0086 seconds. Added 3829 classes and 930 folders.
+[2022.02.05-07.02.14:199][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.02.05-07.02.14:213][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.02.05-07.02.14:213][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.05-07.02.14:213][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.02.05-07.02.14:214][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.05-07.02.14:214][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2022.02.05-07.02.14:214][  0]LogPakFile: OnPakFileMounted2Time == 0.001143
+[2022.02.05-07.02.14:227][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.02.05-07.02.14:227][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.05-07.02.14:227][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.02.05-07.02.14:227][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.05-07.02.14:227][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2022.02.05-07.02.14:227][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2022.02.05-07.02.14:232][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.02.05-07.02.14:232][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.05-07.02.14:232][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.02.05-07.02.14:232][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.05-07.02.14:232][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2022.02.05-07.02.14:232][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2022.02.05-07.02.14:237][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.02.05-07.02.14:237][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.05-07.02.14:237][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.02.05-07.02.14:237][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.05-07.02.14:237][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2022.02.05-07.02.14:237][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2022.02.05-07.02.14:242][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.02.05-07.02.14:242][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.05-07.02.14:242][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.02.05-07.02.14:242][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.05-07.02.14:242][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2022.02.05-07.02.14:242][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2022.02.05-07.02.14:247][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.02.05-07.02.14:247][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.05-07.02.14:247][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.02.05-07.02.14:247][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.05-07.02.14:247][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2022.02.05-07.02.14:247][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2022.02.05-07.02.14:252][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.02.05-07.02.14:252][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.05-07.02.14:252][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.02.05-07.02.14:252][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.05-07.02.14:252][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2022.02.05-07.02.14:252][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2022.02.05-07.02.14:258][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.02.05-07.02.14:258][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.05-07.02.14:258][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.02.05-07.02.14:258][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.05-07.02.14:258][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2022.02.05-07.02.14:258][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2022.02.05-07.02.14:264][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.02.05-07.02.14:264][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.05-07.02.14:264][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.02.05-07.02.14:264][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.05-07.02.14:264][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2022.02.05-07.02.14:264][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2022.02.05-07.02.14:270][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.02.05-07.02.14:270][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.05-07.02.14:270][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.02.05-07.02.14:270][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.05-07.02.14:270][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2022.02.05-07.02.14:270][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2022.02.05-07.02.14:275][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.02.05-07.02.14:275][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.05-07.02.14:275][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.02.05-07.02.14:275][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.05-07.02.14:275][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2022.02.05-07.02.14:275][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2022.02.05-07.02.14:281][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.02.05-07.02.14:281][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.05-07.02.14:281][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.02.05-07.02.14:281][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.05-07.02.14:281][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2022.02.05-07.02.14:281][  0]LogPakFile: OnPakFileMounted2Time == 0.000054
+[2022.02.05-07.02.14:287][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.02.05-07.02.14:287][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.05-07.02.14:287][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.02.05-07.02.14:287][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.05-07.02.14:287][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2022.02.05-07.02.14:287][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2022.02.05-07.02.14:292][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.02.05-07.02.14:292][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.05-07.02.14:292][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.02.05-07.02.14:292][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.05-07.02.14:292][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2022.02.05-07.02.14:292][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2022.02.05-07.02.14:297][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.02.05-07.02.14:297][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.05-07.02.14:297][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.02.05-07.02.14:297][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.05-07.02.14:297][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2022.02.05-07.02.14:298][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2022.02.05-07.02.14:303][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.02.05-07.02.14:303][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.05-07.02.14:303][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.02.05-07.02.14:303][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.05-07.02.14:303][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2022.02.05-07.02.14:303][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2022.02.05-07.02.14:308][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.02.05-07.02.14:308][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.05-07.02.14:308][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.02.05-07.02.14:308][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.05-07.02.14:308][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2022.02.05-07.02.14:308][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2022.02.05-07.02.14:314][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.02.05-07.02.14:314][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.05-07.02.14:314][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.02.05-07.02.14:314][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.05-07.02.14:314][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2022.02.05-07.02.14:314][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2022.02.05-07.02.14:319][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.02.05-07.02.14:319][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.05-07.02.14:319][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.02.05-07.02.14:319][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.05-07.02.14:319][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2022.02.05-07.02.14:319][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2022.02.05-07.02.14:328][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.02.05-07.02.14:328][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.05-07.02.14:328][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.02.05-07.02.14:328][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.05-07.02.14:328][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2022.02.05-07.02.14:328][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2022.02.05-07.02.14:333][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.02.05-07.02.14:333][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.05-07.02.14:333][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.02.05-07.02.14:333][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.05-07.02.14:333][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2022.02.05-07.02.14:333][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2022.02.05-07.02.14:338][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.02.05-07.02.14:338][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.05-07.02.14:338][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.02.05-07.02.14:338][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.05-07.02.14:338][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2022.02.05-07.02.14:338][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2022.02.05-07.02.14:343][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.02.05-07.02.14:343][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.05-07.02.14:343][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.02.05-07.02.14:343][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.05-07.02.14:343][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2022.02.05-07.02.14:343][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2022.02.05-07.02.14:349][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.02.05-07.02.14:349][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.05-07.02.14:349][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.02.05-07.02.14:349][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.05-07.02.14:349][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2022.02.05-07.02.14:349][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2022.02.05-07.02.14:354][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.02.05-07.02.14:354][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.05-07.02.14:354][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.02.05-07.02.14:354][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.05-07.02.14:354][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2022.02.05-07.02.14:354][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2022.02.05-07.02.14:359][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.02.05-07.02.14:359][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.05-07.02.14:359][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.02.05-07.02.14:359][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.05-07.02.14:359][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2022.02.05-07.02.14:359][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2022.02.05-07.02.14:543][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.02.05-07.02.14:544][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2022.02.05-07.02.14:989][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.02.05-07.02.15:104][  0]LogSlate: Took 0.007305 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.02.05-07.02.15:113][  0]LogSlate: Took 0.006106 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.02.05-07.02.15:120][  0]LogSlate: Took 0.004826 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.02.05-07.02.15:284][  0]LogRenderer: Reallocating scene render targets to support 1696x832 Format 10 NumSamples 1 (Frame:1).
+[2022.02.05-07.02.15:431][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.02.05-07.02.15:432][  0]LogLoad: (Engine Initialization) Total time: 19.91 seconds
+[2022.02.05-07.02.15:432][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.02.05-07.02.15:577][  0]LogAssetRegistry: Asset discovery search completed in 9.7210 seconds
+[2022.02.05-07.02.15:602][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2022.02.05-07.02.15:614][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.02.05-07.02.16:798][  4]LogSlate: Took 0.005344 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.02.05-07.13.34:045][427]LogRenderer: Reallocating scene render targets to support 1696x836 Format 10 NumSamples 1 (Frame:331).
+[2022.02.05-07.13.34:076][428]LogRenderer: Reallocating scene render targets to support 1696x844 Format 10 NumSamples 1 (Frame:333).
+[2022.02.05-07.13.34:114][429]LogRenderer: Reallocating scene render targets to support 1696x860 Format 10 NumSamples 1 (Frame:335).
+[2022.02.05-07.13.34:142][430]LogRenderer: Reallocating scene render targets to support 1696x876 Format 10 NumSamples 1 (Frame:337).
+[2022.02.05-07.13.34:176][431]LogRenderer: Reallocating scene render targets to support 1696x888 Format 10 NumSamples 1 (Frame:339).
+[2022.02.05-07.13.37:161][781]LogRenderer: Reallocating scene render targets to support 1700x888 Format 10 NumSamples 1 (Frame:674).
+[2022.02.05-07.13.37:195][782]LogRenderer: Reallocating scene render targets to support 1704x888 Format 10 NumSamples 1 (Frame:676).
+[2022.02.05-07.13.37:249][784]LogRenderer: Reallocating scene render targets to support 1708x888 Format 10 NumSamples 1 (Frame:680).
+[2022.02.05-07.13.37:297][786]LogRenderer: Reallocating scene render targets to support 1712x888 Format 10 NumSamples 1 (Frame:684).
+[2022.02.05-07.13.37:372][789]LogRenderer: Reallocating scene render targets to support 1716x888 Format 10 NumSamples 1 (Frame:690).
+[2022.02.05-07.13.38:913][968]LogRenderer: Reallocating scene render targets to support 1716x892 Format 10 NumSamples 1 (Frame:862).
+[2022.02.05-07.13.38:966][970]LogRenderer: Reallocating scene render targets to support 1716x904 Format 10 NumSamples 1 (Frame:866).
+[2022.02.05-07.13.38:998][971]LogRenderer: Reallocating scene render targets to support 1716x916 Format 10 NumSamples 1 (Frame:868).
+[2022.02.05-07.13.39:028][972]LogRenderer: Reallocating scene render targets to support 1716x932 Format 10 NumSamples 1 (Frame:870).
+[2022.02.05-07.13.39:061][973]LogRenderer: Reallocating scene render targets to support 1716x944 Format 10 NumSamples 1 (Frame:872).
+[2022.02.05-07.13.39:087][974]LogRenderer: Reallocating scene render targets to support 1716x956 Format 10 NumSamples 1 (Frame:874).
+[2022.02.05-07.13.39:117][975]LogRenderer: Reallocating scene render targets to support 1716x960 Format 10 NumSamples 1 (Frame:876).
+[2022.02.05-07.13.46:398][828]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonCPP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2022.02.05-07.13.47:062][828]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2022.02.05-07.13.47:946][828]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/BluePrints/UI/PlayerUI.PlayerUI
+[2022.02.05-07.13.48:637][828]LogSlate: Took 0.005211 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.02.05-07.13.50:187][970]LogSlate: Took 0.004143 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.02.05-07.13.50:325][980]LogRenderer: Reallocating scene render targets to support 2572x1380 Format 10 NumSamples 1 (Frame:1803).
+[2022.02.05-07.13.51:448][ 92]LogSlate: Window 'PlayerUI' being destroyed
+[2022.02.05-07.16.13:407][551]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/Development/UI/Content/PlayerUI/PlayerUI_bp.PlayerUI_bp is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2022.02.05-07.16.13:425][551]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.02.05-07.16.34:465][212]Running C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/HaloCE.uproject" -game -rocket -progress
+[2022.02.05-07.16.34:768][212]Discovering modules, targets and source code for project...
+[2022.02.05-07.16.37:576][212]Binding IntelliSense data...
+[2022.02.05-07.16.44:511][212]Binding IntelliSense data... 100%
+[2022.02.05-07.16.44:511][212]Writing project files...
+[2022.02.05-07.16.48:346][212]Writing project files... 100%
+[2022.02.05-07.16.48:517][212]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2022.02.05-07.16.48:539][212]Candidate modules for hot reload:
+[2022.02.05-07.16.48:539][212]  HaloCE
+[2022.02.05-07.16.48:539][212]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=HaloCE,6378 HaloCEEditor Win64 Development -Project="C:/Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/HaloCE.uproject" "C:/Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/HaloCE.uproject"  -IgnoreJunk]
+[2022.02.05-07.17.26:728][212]CompilerResultsLog: New page: Compilation - Feb 4, 2022, 7:17:26 PM
+[2022.02.05-07.17.26:729][212]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\USER\Documents\GitHubs\HaloCE_Quirino).
+[2022.02.05-07.17.26:729][212]CompilerResultsLog: Creating makefile for HaloCEEditor (no existing makefile)
+[2022.02.05-07.17.26:729][212]CompilerResultsLog: Parsing headers for HaloCEEditor
+[2022.02.05-07.17.26:729][212]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\USER\Documents\GitHubs\HaloCE_Quirino\HaloCE\HaloCE.uproject" "C:\Users\USER\Documents\GitHubs\HaloCE_Quirino\HaloCE\Intermediate\Build\Win64\HaloCEEditor\Development\HaloCEEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\USER\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2022.02.05-07.17.26:729][212]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2022.02.05-07.17.26:729][212]CompilerResultsLog: Reflection code generated for HaloCEEditor in 10.5713184 seconds
+[2022.02.05-07.17.26:729][212]CompilerResultsLog: Building HaloCEEditor...
+[2022.02.05-07.17.26:729][212]CompilerResultsLog: Using Visual Studio 2019 14.29.30139 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.02.05-07.17.26:729][212]CompilerResultsLog: Building 22 actions with 12 processes...
+[2022.02.05-07.17.26:729][212]CompilerResultsLog:   [1/22] SharedPCH.Engine.ShadowErrors.cpp
+[2022.02.05-07.17.26:729][212]CompilerResultsLog:   [2/22] HaloCE.cpp
+[2022.02.05-07.17.26:729][212]CompilerResultsLog:   [3/22] AssaultRifle.cpp
+[2022.02.05-07.17.26:729][212]CompilerResultsLog:   [4/22] Pistol.cpp
+[2022.02.05-07.17.26:729][212]CompilerResultsLog:   [5/22] Bullet.cpp
+[2022.02.05-07.17.26:729][212]CompilerResultsLog:   [6/22] HaloCEProjectile.cpp
+[2022.02.05-07.17.26:729][212]CompilerResultsLog:   [7/22] Weapon.cpp
+[2022.02.05-07.17.26:729][212]CompilerResultsLog:   [8/22] HaloCE.init.gen.cpp
+[2022.02.05-07.17.26:729][212]CompilerResultsLog:   [9/22] Bullet.gen.cpp
+[2022.02.05-07.17.26:729][212]CompilerResultsLog:   [10/22] HaloCEHUD.cpp
+[2022.02.05-07.17.26:729][212]CompilerResultsLog:   [11/22] HaloCEGameMode.cpp
+[2022.02.05-07.17.26:729][212]CompilerResultsLog:   [12/22] AssaultRifle.gen.cpp
+[2022.02.05-07.17.26:729][212]CompilerResultsLog:   [13/22] HaloCECharacter.gen.cpp
+[2022.02.05-07.17.26:729][212]CompilerResultsLog:   [14/22] HaloCEGameMode.gen.cpp
+[2022.02.05-07.17.26:729][212]CompilerResultsLog:   [15/22] HaloCEHUD.gen.cpp
+[2022.02.05-07.17.26:729][212]CompilerResultsLog:   [16/22] HaloCECharacter.cpp
+[2022.02.05-07.17.26:729][212]CompilerResultsLog:    C:\Users\USER\Documents\GitHubs\HaloCE_Quirino\HaloCE\Source\HaloCE\HaloCECharacter.cpp(140) : error C2248: 'UWeapon::isAutomatic': cannot access protected member declared in class 'UWeapon'
+[2022.02.05-07.17.26:729][212]CompilerResultsLog:   C:\Users\USER\Documents\GitHubs\HaloCE_Quirino\HaloCE\Source\HaloCE\Weapon.h(46): note: see declaration of 'UWeapon::isAutomatic'
+[2022.02.05-07.17.26:729][212]CompilerResultsLog:   C:\Users\USER\Documents\GitHubs\HaloCE_Quirino\HaloCE\Source\HaloCE\Weapon.h(11): note: see declaration of 'UWeapon'
+[2022.02.05-07.17.26:729][212]CompilerResultsLog:   [17/22] Pistol.gen.cpp
+[2022.02.05-07.17.26:729][212]CompilerResultsLog:   [18/22] HaloCEProjectile.gen.cpp
+[2022.02.05-07.17.26:729][212]CompilerResultsLog:   [19/22] Weapon.gen.cpp
+[2022.02.05-07.17.26:729][212]LogMainFrame: MainFrame: Module compiling took 38.212 seconds
+[2022.02.05-07.17.26:743][212]Warning: HotReload failed, recompile failed
+[2022.02.05-07.17.26:743][212]Warning: RebindPackages failed because compilation failed.
+[2022.02.05-07.17.59:600][212]LogSlate: Window 'Message' being destroyed
+[2022.02.05-07.17.59:605][212]Message dialog closed, result: Yes, title: Message, text: Successfully added class 'AssaultRifle', however you must recompile the 'HaloCE' module before it will appear in the Content Browser. Failed to automatically hot reload the 'HaloCE' module.
+
+Would you like to open the Output Log to see more details?
+[2022.02.05-07.17.59:657][212]LogSlate: Window 'Add C++ Class' being destroyed
+[2022.02.05-07.17.59:692][212]LogSlate: Took 0.007099 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.02.05-07.18.02:141][473]LogSlate: Window 'Output Log' being destroyed
+[2022.02.05-07.18.23:968][922]Running C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/HaloCE.uproject" -game -rocket -progress
+[2022.02.05-07.18.24:270][922]Discovering modules, targets and source code for project...
+[2022.02.05-07.18.25:774][922]Binding IntelliSense data...
+[2022.02.05-07.18.27:684][922]Binding IntelliSense data... 100%
+[2022.02.05-07.18.27:684][922]Writing project files...
+[2022.02.05-07.18.30:892][922]Writing project files... 100%
+[2022.02.05-07.20.05:421][393]LogHotReload: New module detected: UE4Editor-HaloCE-0003.dll
+[2022.02.05-07.20.06:784][398]LogHotReload: Starting Hot-Reload from IDE
+[2022.02.05-07.20.06:852][398]LogClass: Could not find existing class AssaultRifle in package /Script/HaloCE for HotReload, assuming new class
+[2022.02.05-07.20.06:852][398]LogClass: Could not find existing class Weapon in package /Script/HaloCE for HotReload, assuming new class
+[2022.02.05-07.20.06:852][398]LogClass: Function GetMagCapacity is new.
+[2022.02.05-07.20.06:852][398]LogClass: Function GetMagCount is new.
+[2022.02.05-07.20.06:852][398]LogClass: Function GetMaxAmmo is new.
+[2022.02.05-07.20.06:852][398]LogClass: Function GetMaxAmmoCount is new.
+[2022.02.05-07.20.06:852][398]LogClass: Function GetReloadTime is new.
+[2022.02.05-07.20.06:852][398]LogClass: Function SetMagCapacity is new.
+[2022.02.05-07.20.06:852][398]LogClass: Function SetMagCount is new.
+[2022.02.05-07.20.06:852][398]LogClass: Function SetMaxAmmo is new.
+[2022.02.05-07.20.06:852][398]LogClass: Function SetMaxAmmoCount is new.
+[2022.02.05-07.20.06:852][398]LogClass: Function SetReloadTime is new.
+[2022.02.05-07.20.06:870][398]LogClass: Could not find existing class Pistol in package /Script/HaloCE for HotReload, assuming new class
+[2022.02.05-07.20.06:881][398]LogHotReload: Re-instancing HaloCECharacter after hot-reload.
+[2022.02.05-07.20.06:898][398]LogProperty: Warning: Serialized Class /Script/HaloCE.Pistol for a property of Class /Engine/Transient.HOTRELOADED_Weapon_1. Reference will be nullptred.
+    Property = ObjectProperty /Script/HaloCE.HaloCECharacter:weapon
+    Item = Pistol /Game/FirstPersonCPP/Blueprints/FirstPersonCharacter.Default__FirstPersonCharacter_C:WeapComponent
+[2022.02.05-07.20.06:969][398]LogProperty: Warning: Serialized Class /Script/HaloCE.Pistol for a property of Class /Engine/Transient.HOTRELOADED_Weapon_1. Reference will be nullptred.
+    Property = ObjectProperty /Script/HaloCE.HaloCECharacter:weapon
+    Item = Pistol /Game/FirstPersonCPP/Blueprints/FirstPersonCharacter.Default__SKEL_FirstPersonCharacter_C:WeapComponent
+[2022.02.05-07.20.06:982][398]LogProperty: Warning: Serialized Class /Script/HaloCE.Pistol for a property of Class /Engine/Transient.HOTRELOADED_Weapon_1. Reference will be nullptred.
+    Property = ObjectProperty /Script/HaloCE.HaloCECharacter:weapon
+    Item = Pistol /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_0.WeapComponent
+[2022.02.05-07.20.06:986][398]LogProperty: Warning: Serialized Class /Script/HaloCE.Pistol for a property of Class /Engine/Transient.HOTRELOADED_Weapon_1. Reference will be nullptred.
+    Property = ObjectProperty /Script/HaloCE.HaloCECharacter:weapon
+    Item = Pistol /Engine/Transient.World_1:PersistentLevel.FirstPersonCharacter_C_0.WeapComponent
+[2022.02.05-07.20.07:123][398]LogHotReload: Re-instancing Pistol after hot-reload.
+[2022.02.05-07.20.07:139][398]LogProperty: Warning: Serialized Class /Script/HaloCE.Pistol for a property of Class /Engine/Transient.HOTRELOADED_Weapon_1. Reference will be nullptred.
+    Property = ObjectProperty /Script/HaloCE.HaloCECharacter:weapon
+    Item = Pistol /Engine/Transient.BPGC_ARCH_FOR_CDO_HaloCECharacter_0:WeapComponent
+[2022.02.05-07.20.07:139][398]LogProperty: Warning: Serialized Class /Script/HaloCE.Pistol for a property of Class /Engine/Transient.HOTRELOADED_Weapon_1. Reference will be nullptred.
+    Property = ObjectProperty /Script/HaloCE.HaloCECharacter:weapon
+    Item = Pistol /Engine/Transient.Default__SKEL_FirstPersonCharacter_C:WeapComponent
+[2022.02.05-07.20.07:140][398]LogProperty: Warning: Serialized Class /Script/HaloCE.Pistol for a property of Class /Engine/Transient.HOTRELOADED_Weapon_1. Reference will be nullptred.
+    Property = ObjectProperty /Script/HaloCE.HaloCECharacter:weapon
+    Item = Pistol /Engine/Transient.Default__FirstPersonCharacter_C:WeapComponent
+[2022.02.05-07.20.07:165][398]LogHotReload: Re-instancing Weapon after hot-reload.
+[2022.02.05-07.20.07:195][398]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HaloCE' in 0.0004 seconds. Added 8 classes and 2 folders.
+[2022.02.05-07.20.07:209][398]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2022.02.05-07.20.07:337][398]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0168 seconds. Added 3830 classes and 930 folders.
+[2022.02.05-07.20.07:387][398]Display: HotReload took  0.6s.
+[2022.02.05-07.20.16:926][859]Candidate modules for hot reload:
+[2022.02.05-07.20.16:926][859]  HaloCE
+[2022.02.05-07.20.16:926][859]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=HaloCE,6554 HaloCEEditor Win64 Development -Project="C:/Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/HaloCE.uproject" "C:/Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/HaloCE.uproject"  -IgnoreJunk]
+[2022.02.05-07.20.16:928][859]Warning: Starting HotReload took  0.0s.
+[2022.02.05-07.20.24:357][582]CompilerResultsLog: New page: Compilation - Feb 4, 2022, 7:20:24 PM
+[2022.02.05-07.20.24:357][582]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\USER\Documents\GitHubs\HaloCE_Quirino).
+[2022.02.05-07.20.24:358][582]CompilerResultsLog: Building HaloCEEditor...
+[2022.02.05-07.20.24:358][582]CompilerResultsLog: Using Visual Studio 2019 14.29.30139 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.02.05-07.20.24:358][582]CompilerResultsLog: Building 3 actions with 12 processes...
+[2022.02.05-07.20.24:358][582]CompilerResultsLog:   [1/3] UE4Editor-HaloCE-6554.lib
+[2022.02.05-07.20.24:358][582]CompilerResultsLog:      Creating library C:\Users\USER\Documents\GitHubs\HaloCE_Quirino\HaloCE\Intermediate\Build\Win64\UE4Editor\Development\HaloCE\UE4Editor-HaloCE-6554.lib and object C:\Users\USER\Documents\GitHubs\HaloCE_Quirino\HaloCE\Intermediate\Build\Win64\UE4Editor\Development\HaloCE\UE4Editor-HaloCE-6554.exp
+[2022.02.05-07.20.24:358][582]CompilerResultsLog:   [2/3] UE4Editor-HaloCE-6554.dll
+[2022.02.05-07.20.24:358][582]CompilerResultsLog:      Creating library C:\Users\USER\Documents\GitHubs\HaloCE_Quirino\HaloCE\Intermediate\Build\Win64\UE4Editor\Development\HaloCE\UE4Editor-HaloCE-6554.suppressed.lib and object C:\Users\USER\Documents\GitHubs\HaloCE_Quirino\HaloCE\Intermediate\Build\Win64\UE4Editor\Development\HaloCE\UE4Editor-HaloCE-6554.suppressed.exp
+[2022.02.05-07.20.24:358][582]CompilerResultsLog:   [3/3] HaloCEEditor.target
+[2022.02.05-07.20.24:358][582]CompilerResultsLog: Total time in Parallel executor: 5.47 seconds
+[2022.02.05-07.20.24:358][582]CompilerResultsLog: Total execution time: 7.25 seconds
+[2022.02.05-07.20.24:358][582]LogMainFrame: MainFrame: Module compiling took 7.435 seconds
+[2022.02.05-07.20.24:441][582]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HaloCE' in 0.0004 seconds. Added 8 classes and 2 folders.
+[2022.02.05-07.20.24:454][582]Display: HotReload successful (11 functions remapped  0 scriptstructs remapped)
+[2022.02.05-07.20.24:589][582]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0133 seconds. Added 3830 classes and 930 folders.
+[2022.02.05-07.20.24:589][582]Display: HotReload took  7.7s.
+[2022.02.05-07.21.02:666][745]Running C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/HaloCE.uproject" -game -rocket -progress
+[2022.02.05-07.21.03:069][745]Discovering modules, targets and source code for project...
+[2022.02.05-07.21.04:873][745]Binding IntelliSense data...
+[2022.02.05-07.21.07:395][745]Binding IntelliSense data... 100%
+[2022.02.05-07.21.07:496][745]Writing project files...
+[2022.02.05-07.21.11:129][745]Writing project files... 100%
+[2022.02.05-07.21.11:237][745]Candidate modules for hot reload:
+[2022.02.05-07.21.11:237][745]  HaloCE
+[2022.02.05-07.21.11:237][745]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=HaloCE,4844 HaloCEEditor Win64 Development -Project="C:/Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/HaloCE.uproject" "C:/Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/HaloCE.uproject"  -IgnoreJunk]
+[2022.02.05-07.21.19:591][745]CompilerResultsLog: New page: Compilation - Feb 4, 2022, 7:21:19 PM
+[2022.02.05-07.21.19:591][745]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\USER\Documents\GitHubs\HaloCE_Quirino).
+[2022.02.05-07.21.19:591][745]CompilerResultsLog: Creating makefile for HaloCEEditor (no existing makefile)
+[2022.02.05-07.21.19:591][745]CompilerResultsLog: Parsing headers for HaloCEEditor
+[2022.02.05-07.21.19:591][745]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\USER\Documents\GitHubs\HaloCE_Quirino\HaloCE\HaloCE.uproject" "C:\Users\USER\Documents\GitHubs\HaloCE_Quirino\HaloCE\Intermediate\Build\Win64\HaloCEEditor\Development\HaloCEEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\USER\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2022.02.05-07.21.19:592][745]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2022.02.05-07.21.19:592][745]CompilerResultsLog: Reflection code generated for HaloCEEditor in 3.9579623 seconds
+[2022.02.05-07.21.19:592][745]CompilerResultsLog: Building HaloCEEditor...
+[2022.02.05-07.21.19:592][745]CompilerResultsLog: Using Visual Studio 2019 14.29.30139 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.02.05-07.21.19:592][745]CompilerResultsLog: Building 6 actions with 12 processes...
+[2022.02.05-07.21.19:592][745]CompilerResultsLog:   [1/6] Shotgun.cpp
+[2022.02.05-07.21.19:592][745]CompilerResultsLog:   [2/6] HaloCE.init.gen.cpp
+[2022.02.05-07.21.19:592][745]CompilerResultsLog:   [3/6] Shotgun.gen.cpp
+[2022.02.05-07.21.19:592][745]CompilerResultsLog:   [4/6] UE4Editor-HaloCE-4844.lib
+[2022.02.05-07.21.19:592][745]CompilerResultsLog:      Creating library C:\Users\USER\Documents\GitHubs\HaloCE_Quirino\HaloCE\Intermediate\Build\Win64\UE4Editor\Development\HaloCE\UE4Editor-HaloCE-4844.lib and object C:\Users\USER\Documents\GitHubs\HaloCE_Quirino\HaloCE\Intermediate\Build\Win64\UE4Editor\Development\HaloCE\UE4Editor-HaloCE-4844.exp
+[2022.02.05-07.21.19:592][745]CompilerResultsLog:   [5/6] UE4Editor-HaloCE-4844.dll
+[2022.02.05-07.21.19:592][745]CompilerResultsLog:      Creating library C:\Users\USER\Documents\GitHubs\HaloCE_Quirino\HaloCE\Intermediate\Build\Win64\UE4Editor\Development\HaloCE\UE4Editor-HaloCE-4844.suppressed.lib and object C:\Users\USER\Documents\GitHubs\HaloCE_Quirino\HaloCE\Intermediate\Build\Win64\UE4Editor\Development\HaloCE\UE4Editor-HaloCE-4844.suppressed.exp
+[2022.02.05-07.21.19:592][745]CompilerResultsLog:   [6/6] HaloCEEditor.target
+[2022.02.05-07.21.19:592][745]CompilerResultsLog: Total time in Parallel executor: 1.83 seconds
+[2022.02.05-07.21.19:592][745]CompilerResultsLog: Total execution time: 8.19 seconds
+[2022.02.05-07.21.19:592][745]LogMainFrame: MainFrame: Module compiling took 8.357 seconds
+[2022.02.05-07.21.19:679][745]LogClass: Could not find existing class Shotgun in package /Script/HaloCE for HotReload, assuming new class
+[2022.02.05-07.21.19:694][745]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HaloCE' in 0.0005 seconds. Added 9 classes and 2 folders.
+[2022.02.05-07.21.19:708][745]Display: HotReload successful (11 functions remapped  0 scriptstructs remapped)
+[2022.02.05-07.21.19:878][745]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0107 seconds. Added 3831 classes and 930 folders.
+[2022.02.05-07.21.19:878][745]Display: HotReload took  8.6s.
+[2022.02.05-07.21.19:893][745]Warning: HotReload operation took  8.7s.
+[2022.02.05-07.21.19:941][745]LogVSAccessor: Couldn't get item operations. Visual Studio may still be initializing.
+[2022.02.05-07.21.19:955][745]LogSlate: Window 'Add C++ Class' being destroyed
+[2022.02.05-07.21.20:359][745]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2022.02.05-07.21.20:360][745]LogHotReload: New module detected: UE4Editor-HaloCE-4844.dll
+[2022.02.05-07.21.20:414][746]LogHotReload: Starting Hot-Reload from IDE
+[2022.02.05-07.21.20:478][746]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HaloCE' in 0.0003 seconds. Added 9 classes and 2 folders.
+[2022.02.05-07.21.20:491][746]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2022.02.05-07.21.20:507][746]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0104 seconds. Added 3831 classes and 930 folders.
+[2022.02.05-07.21.20:510][746]Display: HotReload took  0.1s.
+[2022.02.05-07.21.21:226][746]LogVSAccessor: Warning: Couldn't goto line number '1' in 'C:/Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/Source/HaloCE/Shotgun.cpp'
+[2022.02.05-07.22.37:589][646]Running C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/HaloCE.uproject" -game -rocket -progress
+[2022.02.05-07.22.37:892][646]Discovering modules, targets and source code for project...
+[2022.02.05-07.22.39:495][646]Binding IntelliSense data...
+[2022.02.05-07.22.41:518][646]Binding IntelliSense data... 100%
+[2022.02.05-07.22.41:518][646]Writing project files...
+[2022.02.05-07.22.45:226][646]Writing project files... 100%
+[2022.02.05-07.22.45:334][646]Candidate modules for hot reload:
+[2022.02.05-07.22.45:334][646]  HaloCE
+[2022.02.05-07.22.45:334][646]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=HaloCE,0392 HaloCEEditor Win64 Development -Project="C:/Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/HaloCE.uproject" "C:/Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/HaloCE.uproject"  -IgnoreJunk]
+[2022.02.05-07.22.52:743][646]CompilerResultsLog: New page: Compilation - Feb 4, 2022, 7:22:52 PM
+[2022.02.05-07.22.52:743][646]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\USER\Documents\GitHubs\HaloCE_Quirino).
+[2022.02.05-07.22.52:743][646]CompilerResultsLog: Creating makefile for HaloCEEditor (no existing makefile)
+[2022.02.05-07.22.52:744][646]CompilerResultsLog: Parsing headers for HaloCEEditor
+[2022.02.05-07.22.52:744][646]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\USER\Documents\GitHubs\HaloCE_Quirino\HaloCE\HaloCE.uproject" "C:\Users\USER\Documents\GitHubs\HaloCE_Quirino\HaloCE\Intermediate\Build\Win64\HaloCEEditor\Development\HaloCEEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\USER\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2022.02.05-07.22.52:744][646]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2022.02.05-07.22.52:744][646]CompilerResultsLog: Reflection code generated for HaloCEEditor in 3.6386985 seconds
+[2022.02.05-07.22.52:744][646]CompilerResultsLog: Building HaloCEEditor...
+[2022.02.05-07.22.52:744][646]CompilerResultsLog: Using Visual Studio 2019 14.29.30139 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.02.05-07.22.52:744][646]CompilerResultsLog: Building 6 actions with 12 processes...
+[2022.02.05-07.22.52:744][646]CompilerResultsLog:   [1/6] HaloCE.init.gen.cpp
+[2022.02.05-07.22.52:744][646]CompilerResultsLog:   [2/6] RocketLauncher.cpp
+[2022.02.05-07.22.52:744][646]CompilerResultsLog:   [3/6] RocketLauncher.gen.cpp
+[2022.02.05-07.22.52:744][646]CompilerResultsLog:   [4/6] UE4Editor-HaloCE-0392.lib
+[2022.02.05-07.22.52:744][646]CompilerResultsLog:      Creating library C:\Users\USER\Documents\GitHubs\HaloCE_Quirino\HaloCE\Intermediate\Build\Win64\UE4Editor\Development\HaloCE\UE4Editor-HaloCE-0392.lib and object C:\Users\USER\Documents\GitHubs\HaloCE_Quirino\HaloCE\Intermediate\Build\Win64\UE4Editor\Development\HaloCE\UE4Editor-HaloCE-0392.exp
+[2022.02.05-07.22.52:744][646]CompilerResultsLog:   [5/6] UE4Editor-HaloCE-0392.dll
+[2022.02.05-07.22.52:744][646]CompilerResultsLog:      Creating library C:\Users\USER\Documents\GitHubs\HaloCE_Quirino\HaloCE\Intermediate\Build\Win64\UE4Editor\Development\HaloCE\UE4Editor-HaloCE-0392.suppressed.lib and object C:\Users\USER\Documents\GitHubs\HaloCE_Quirino\HaloCE\Intermediate\Build\Win64\UE4Editor\Development\HaloCE\UE4Editor-HaloCE-0392.suppressed.exp
+[2022.02.05-07.22.52:744][646]CompilerResultsLog:   [6/6] HaloCEEditor.target
+[2022.02.05-07.22.52:744][646]CompilerResultsLog: Total time in Parallel executor: 1.48 seconds
+[2022.02.05-07.22.52:744][646]CompilerResultsLog: Total execution time: 7.25 seconds
+[2022.02.05-07.22.52:744][646]LogMainFrame: MainFrame: Module compiling took 7.413 seconds
+[2022.02.05-07.22.52:807][646]LogClass: Could not find existing class RocketLauncher in package /Script/HaloCE for HotReload, assuming new class
+[2022.02.05-07.22.52:821][646]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HaloCE' in 0.0003 seconds. Added 10 classes and 2 folders.
+[2022.02.05-07.22.52:831][646]Display: HotReload successful (11 functions remapped  0 scriptstructs remapped)
+[2022.02.05-07.22.53:022][646]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0096 seconds. Added 3832 classes and 930 folders.
+[2022.02.05-07.22.53:022][646]Display: HotReload took  7.7s.
+[2022.02.05-07.22.53:033][646]Warning: HotReload operation took  7.7s.
+[2022.02.05-07.22.53:199][646]LogVSAccessor: Warning: Couldn't goto line number '1' in 'C:/Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/Source/HaloCE/RocketLauncher.h'
+[2022.02.05-07.22.53:327][646]LogVSAccessor: Warning: Couldn't goto line number '1' in 'C:/Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/Source/HaloCE/RocketLauncher.cpp'
+[2022.02.05-07.22.53:347][646]LogSlate: Window 'Add C++ Class' being destroyed
+[2022.02.05-07.22.53:661][646]LogHotReload: New module detected: UE4Editor-HaloCE-0392.dll
+[2022.02.05-07.22.53:701][647]LogHotReload: Starting Hot-Reload from IDE
+[2022.02.05-07.22.53:731][647]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HaloCE' in 0.0003 seconds. Added 10 classes and 2 folders.
+[2022.02.05-07.22.53:743][647]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2022.02.05-07.22.53:757][647]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0090 seconds. Added 3832 classes and 930 folders.
+[2022.02.05-07.22.53:759][647]Display: HotReload took  0.1s.
+[2022.02.05-07.24.01:413][653]Running C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/HaloCE.uproject" -game -rocket -progress
+[2022.02.05-07.24.01:816][653]Discovering modules, targets and source code for project...
+[2022.02.05-07.24.03:419][653]Binding IntelliSense data...
+[2022.02.05-07.24.05:744][653]Binding IntelliSense data... 100%
+[2022.02.05-07.24.05:744][653]Writing project files...
+[2022.02.05-07.24.09:773][653]Writing project files... 100%
+[2022.02.05-07.24.09:881][653]Candidate modules for hot reload:
+[2022.02.05-07.24.09:881][653]  HaloCE
+[2022.02.05-07.24.09:881][653]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=HaloCE,8100 HaloCEEditor Win64 Development -Project="C:/Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/HaloCE.uproject" "C:/Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/HaloCE.uproject"  -IgnoreJunk]
+[2022.02.05-07.24.17:835][653]CompilerResultsLog: New page: Compilation - Feb 4, 2022, 7:24:17 PM
+[2022.02.05-07.24.17:835][653]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\USER\Documents\GitHubs\HaloCE_Quirino).
+[2022.02.05-07.24.17:835][653]CompilerResultsLog: Creating makefile for HaloCEEditor (no existing makefile)
+[2022.02.05-07.24.17:835][653]CompilerResultsLog: Parsing headers for HaloCEEditor
+[2022.02.05-07.24.17:835][653]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\USER\Documents\GitHubs\HaloCE_Quirino\HaloCE\HaloCE.uproject" "C:\Users\USER\Documents\GitHubs\HaloCE_Quirino\HaloCE\Intermediate\Build\Win64\HaloCEEditor\Development\HaloCEEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\USER\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2022.02.05-07.24.17:835][653]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2022.02.05-07.24.17:835][653]CompilerResultsLog: Reflection code generated for HaloCEEditor in 3.9701251 seconds
+[2022.02.05-07.24.17:835][653]CompilerResultsLog: Building HaloCEEditor...
+[2022.02.05-07.24.17:835][653]CompilerResultsLog: Using Visual Studio 2019 14.29.30139 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.02.05-07.24.17:835][653]CompilerResultsLog: Building 6 actions with 12 processes...
+[2022.02.05-07.24.17:835][653]CompilerResultsLog:   [1/6] HaloCE.init.gen.cpp
+[2022.02.05-07.24.17:835][653]CompilerResultsLog:   [2/6] SniperRifle.cpp
+[2022.02.05-07.24.17:835][653]CompilerResultsLog:   [3/6] SniperRifle.gen.cpp
+[2022.02.05-07.24.17:835][653]CompilerResultsLog:   [4/6] UE4Editor-HaloCE-8100.lib
+[2022.02.05-07.24.17:835][653]CompilerResultsLog:      Creating library C:\Users\USER\Documents\GitHubs\HaloCE_Quirino\HaloCE\Intermediate\Build\Win64\UE4Editor\Development\HaloCE\UE4Editor-HaloCE-8100.lib and object C:\Users\USER\Documents\GitHubs\HaloCE_Quirino\HaloCE\Intermediate\Build\Win64\UE4Editor\Development\HaloCE\UE4Editor-HaloCE-8100.exp
+[2022.02.05-07.24.17:835][653]CompilerResultsLog:   [5/6] UE4Editor-HaloCE-8100.dll
+[2022.02.05-07.24.17:835][653]CompilerResultsLog:      Creating library C:\Users\USER\Documents\GitHubs\HaloCE_Quirino\HaloCE\Intermediate\Build\Win64\UE4Editor\Development\HaloCE\UE4Editor-HaloCE-8100.suppressed.lib and object C:\Users\USER\Documents\GitHubs\HaloCE_Quirino\HaloCE\Intermediate\Build\Win64\UE4Editor\Development\HaloCE\UE4Editor-HaloCE-8100.suppressed.exp
+[2022.02.05-07.24.17:835][653]CompilerResultsLog:   [6/6] HaloCEEditor.target
+[2022.02.05-07.24.17:835][653]CompilerResultsLog: Total time in Parallel executor: 1.53 seconds
+[2022.02.05-07.24.17:835][653]CompilerResultsLog: Total execution time: 7.78 seconds
+[2022.02.05-07.24.17:835][653]LogMainFrame: MainFrame: Module compiling took 7.957 seconds
+[2022.02.05-07.24.17:929][653]LogClass: Could not find existing class SniperRifle in package /Script/HaloCE for HotReload, assuming new class
+[2022.02.05-07.24.17:943][653]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HaloCE' in 0.0003 seconds. Added 11 classes and 2 folders.
+[2022.02.05-07.24.17:961][653]Display: HotReload successful (11 functions remapped  0 scriptstructs remapped)
+[2022.02.05-07.24.18:201][653]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0089 seconds. Added 3833 classes and 930 folders.
+[2022.02.05-07.24.18:202][653]Display: HotReload took  8.3s.
+[2022.02.05-07.24.18:206][653]Warning: HotReload operation took  8.3s.
+[2022.02.05-07.24.18:476][653]LogVSAccessor: Warning: Couldn't goto line number '1' in 'C:/Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/Source/HaloCE/SniperRifle.cpp'
+[2022.02.05-07.24.18:499][653]LogSlate: Window 'Add C++ Class' being destroyed
+[2022.02.05-07.24.18:804][653]LogHotReload: New module detected: UE4Editor-HaloCE-8100.dll
+[2022.02.05-07.24.18:858][654]LogHotReload: Starting Hot-Reload from IDE
+[2022.02.05-07.24.18:893][654]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HaloCE' in 0.0003 seconds. Added 11 classes and 2 folders.
+[2022.02.05-07.24.18:913][654]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2022.02.05-07.24.18:934][654]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0135 seconds. Added 3833 classes and 930 folders.
+[2022.02.05-07.24.18:936][654]Display: HotReload took  0.1s.
+[2022.02.05-07.26.59:423][438]Running C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/HaloCE.uproject" -game -rocket -progress
+[2022.02.05-07.26.59:827][438]Discovering modules, targets and source code for project...
+[2022.02.05-07.27.01:931][438]Binding IntelliSense data...
+[2022.02.05-07.27.04:755][438]Binding IntelliSense data... 100%
+[2022.02.05-07.27.04:755][438]Writing project files...
+[2022.02.05-07.27.09:265][438]Writing project files... 100%
+[2022.02.05-07.27.09:377][438]Candidate modules for hot reload:
+[2022.02.05-07.27.09:377][438]  HaloCE
+[2022.02.05-07.27.09:377][438]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=HaloCE,1999 HaloCEEditor Win64 Development -Project="C:/Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/HaloCE.uproject" "C:/Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/HaloCE.uproject"  -IgnoreJunk]
+[2022.02.05-07.27.19:493][438]CompilerResultsLog: New page: Compilation - Feb 4, 2022, 7:27:19 PM
+[2022.02.05-07.27.19:493][438]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\USER\Documents\GitHubs\HaloCE_Quirino).
+[2022.02.05-07.27.19:494][438]CompilerResultsLog: Creating makefile for HaloCEEditor (no existing makefile)
+[2022.02.05-07.27.19:494][438]CompilerResultsLog: Parsing headers for HaloCEEditor
+[2022.02.05-07.27.19:494][438]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\USER\Documents\GitHubs\HaloCE_Quirino\HaloCE\HaloCE.uproject" "C:\Users\USER\Documents\GitHubs\HaloCE_Quirino\HaloCE\Intermediate\Build\Win64\HaloCEEditor\Development\HaloCEEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\USER\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2022.02.05-07.27.19:494][438]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2022.02.05-07.27.19:494][438]CompilerResultsLog: Reflection code generated for HaloCEEditor in 4.868619 seconds
+[2022.02.05-07.27.19:494][438]CompilerResultsLog: Building HaloCEEditor...
+[2022.02.05-07.27.19:494][438]CompilerResultsLog: Using Visual Studio 2019 14.29.30139 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.02.05-07.27.19:494][438]CompilerResultsLog: Building 6 actions with 12 processes...
+[2022.02.05-07.27.19:494][438]CompilerResultsLog:   [1/6] HaloCE.init.gen.cpp
+[2022.02.05-07.27.19:494][438]CompilerResultsLog:   [2/6] FragGrenade.cpp
+[2022.02.05-07.27.19:494][438]CompilerResultsLog:   [3/6] FragGrenade.gen.cpp
+[2022.02.05-07.27.19:494][438]CompilerResultsLog:   [4/6] UE4Editor-HaloCE-1999.lib
+[2022.02.05-07.27.19:494][438]CompilerResultsLog:      Creating library C:\Users\USER\Documents\GitHubs\HaloCE_Quirino\HaloCE\Intermediate\Build\Win64\UE4Editor\Development\HaloCE\UE4Editor-HaloCE-1999.lib and object C:\Users\USER\Documents\GitHubs\HaloCE_Quirino\HaloCE\Intermediate\Build\Win64\UE4Editor\Development\HaloCE\UE4Editor-HaloCE-1999.exp
+[2022.02.05-07.27.19:494][438]CompilerResultsLog:   [5/6] UE4Editor-HaloCE-1999.dll
+[2022.02.05-07.27.19:494][438]CompilerResultsLog:      Creating library C:\Users\USER\Documents\GitHubs\HaloCE_Quirino\HaloCE\Intermediate\Build\Win64\UE4Editor\Development\HaloCE\UE4Editor-HaloCE-1999.suppressed.lib and object C:\Users\USER\Documents\GitHubs\HaloCE_Quirino\HaloCE\Intermediate\Build\Win64\UE4Editor\Development\HaloCE\UE4Editor-HaloCE-1999.suppressed.exp
+[2022.02.05-07.27.19:494][438]CompilerResultsLog:   [6/6] HaloCEEditor.target
+[2022.02.05-07.27.19:494][438]CompilerResultsLog: Total time in Parallel executor: 2.29 seconds
+[2022.02.05-07.27.19:494][438]CompilerResultsLog: Total execution time: 9.93 seconds
+[2022.02.05-07.27.19:494][438]LogMainFrame: MainFrame: Module compiling took 10.121 seconds
+[2022.02.05-07.27.19:561][438]LogClass: Could not find existing class FragGrenade in package /Script/HaloCE for HotReload, assuming new class
+[2022.02.05-07.27.19:659][438]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HaloCE' in 0.0004 seconds. Added 12 classes and 2 folders.
+[2022.02.05-07.27.19:685][438]Display: HotReload successful (11 functions remapped  0 scriptstructs remapped)
+[2022.02.05-07.27.19:991][438]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0140 seconds. Added 3834 classes and 930 folders.
+[2022.02.05-07.27.19:991][438]Display: HotReload took 10.6s.
+[2022.02.05-07.27.20:002][438]Warning: HotReload operation took 10.6s.
+[2022.02.05-07.27.20:389][438]LogVSAccessor: Warning: Couldn't goto line number '1' in 'C:/Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/Source/HaloCE/FragGrenade.cpp'
+[2022.02.05-07.27.20:419][438]LogSlate: Window 'Add C++ Class' being destroyed
+[2022.02.05-07.27.20:848][439]LogHotReload: New module detected: UE4Editor-HaloCE-1999.dll
+[2022.02.05-07.27.20:868][440]LogHotReload: Starting Hot-Reload from IDE
+[2022.02.05-07.27.20:915][440]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HaloCE' in 0.0004 seconds. Added 12 classes and 2 folders.
+[2022.02.05-07.27.20:944][440]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2022.02.05-07.27.20:964][440]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0137 seconds. Added 3834 classes and 930 folders.
+[2022.02.05-07.27.20:968][440]Display: HotReload took  0.1s.
+[2022.02.05-07.27.48:263][ 60]Running C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/HaloCE.uproject" -game -rocket -progress
+[2022.02.05-07.27.48:667][ 60]Discovering modules, targets and source code for project...
+[2022.02.05-07.27.50:771][ 60]Binding IntelliSense data...
+[2022.02.05-07.27.53:492][ 60]Binding IntelliSense data... 100%
+[2022.02.05-07.27.53:492][ 60]Writing project files...
+[2022.02.05-07.27.57:801][ 60]Writing project files... 100%
+[2022.02.05-07.27.58:011][ 60]Candidate modules for hot reload:
+[2022.02.05-07.27.58:011][ 60]  HaloCE
+[2022.02.05-07.27.58:011][ 60]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=HaloCE,4496 HaloCEEditor Win64 Development -Project="C:/Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/HaloCE.uproject" "C:/Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/HaloCE.uproject"  -IgnoreJunk]
+[2022.02.05-07.28.07:636][ 60]CompilerResultsLog: New page: Compilation - Feb 4, 2022, 7:28:07 PM
+[2022.02.05-07.28.07:636][ 60]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\USER\Documents\GitHubs\HaloCE_Quirino).
+[2022.02.05-07.28.07:636][ 60]CompilerResultsLog: Creating makefile for HaloCEEditor (no existing makefile)
+[2022.02.05-07.28.07:636][ 60]CompilerResultsLog: Parsing headers for HaloCEEditor
+[2022.02.05-07.28.07:636][ 60]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\USER\Documents\GitHubs\HaloCE_Quirino\HaloCE\HaloCE.uproject" "C:\Users\USER\Documents\GitHubs\HaloCE_Quirino\HaloCE\Intermediate\Build\Win64\HaloCEEditor\Development\HaloCEEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\USER\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2022.02.05-07.28.07:636][ 60]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2022.02.05-07.28.07:636][ 60]CompilerResultsLog: Reflection code generated for HaloCEEditor in 4.5306219 seconds
+[2022.02.05-07.28.07:636][ 60]CompilerResultsLog: Building HaloCEEditor...
+[2022.02.05-07.28.07:636][ 60]CompilerResultsLog: Using Visual Studio 2019 14.29.30139 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.02.05-07.28.07:636][ 60]CompilerResultsLog: Building 6 actions with 12 processes...
+[2022.02.05-07.28.07:636][ 60]CompilerResultsLog:   [1/6] HaloCE.init.gen.cpp
+[2022.02.05-07.28.07:636][ 60]CompilerResultsLog:   [2/6] PlasmaGrenade.cpp
+[2022.02.05-07.28.07:636][ 60]CompilerResultsLog:   [3/6] PlasmaGrenade.gen.cpp
+[2022.02.05-07.28.07:636][ 60]CompilerResultsLog:   [4/6] UE4Editor-HaloCE-4496.lib
+[2022.02.05-07.28.07:636][ 60]CompilerResultsLog:      Creating library C:\Users\USER\Documents\GitHubs\HaloCE_Quirino\HaloCE\Intermediate\Build\Win64\UE4Editor\Development\HaloCE\UE4Editor-HaloCE-4496.lib and object C:\Users\USER\Documents\GitHubs\HaloCE_Quirino\HaloCE\Intermediate\Build\Win64\UE4Editor\Development\HaloCE\UE4Editor-HaloCE-4496.exp
+[2022.02.05-07.28.07:636][ 60]CompilerResultsLog:   [5/6] UE4Editor-HaloCE-4496.dll
+[2022.02.05-07.28.07:636][ 60]CompilerResultsLog:      Creating library C:\Users\USER\Documents\GitHubs\HaloCE_Quirino\HaloCE\Intermediate\Build\Win64\UE4Editor\Development\HaloCE\UE4Editor-HaloCE-4496.suppressed.lib and object C:\Users\USER\Documents\GitHubs\HaloCE_Quirino\HaloCE\Intermediate\Build\Win64\UE4Editor\Development\HaloCE\UE4Editor-HaloCE-4496.suppressed.exp
+[2022.02.05-07.28.07:636][ 60]CompilerResultsLog:   [6/6] HaloCEEditor.target
+[2022.02.05-07.28.07:636][ 60]CompilerResultsLog: Total time in Parallel executor: 2.25 seconds
+[2022.02.05-07.28.07:636][ 60]CompilerResultsLog: Total execution time: 9.44 seconds
+[2022.02.05-07.28.07:636][ 60]LogMainFrame: MainFrame: Module compiling took 9.628 seconds
+[2022.02.05-07.28.07:780][ 60]LogClass: Could not find existing class PlasmaGrenade in package /Script/HaloCE for HotReload, assuming new class
+[2022.02.05-07.28.07:842][ 60]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HaloCE' in 0.0004 seconds. Added 13 classes and 2 folders.
+[2022.02.05-07.28.07:876][ 60]Display: HotReload successful (11 functions remapped  0 scriptstructs remapped)
+[2022.02.05-07.28.08:236][ 60]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0116 seconds. Added 3835 classes and 930 folders.
+[2022.02.05-07.28.08:236][ 60]Display: HotReload took 10.2s.
+[2022.02.05-07.28.08:239][ 60]Warning: HotReload operation took 10.2s.
+[2022.02.05-07.28.08:428][ 60]LogVSAccessor: Warning: Couldn't goto line number '1' in 'C:/Users/USER/Documents/GitHubs/HaloCE_Quirino/HaloCE/Source/HaloCE/PlasmaGrenade.h'
+[2022.02.05-07.28.08:633][ 60]LogSlate: Window 'Add C++ Class' being destroyed
+[2022.02.05-07.28.09:172][ 60]LogHotReload: New module detected: UE4Editor-HaloCE-4496.dll
+[2022.02.05-07.28.09:231][ 61]LogHotReload: Starting Hot-Reload from IDE
+[2022.02.05-07.28.09:271][ 61]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HaloCE' in 0.0004 seconds. Added 13 classes and 2 folders.
+[2022.02.05-07.28.09:298][ 61]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2022.02.05-07.28.09:317][ 61]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0140 seconds. Added 3835 classes and 930 folders.
+[2022.02.05-07.28.09:320][ 61]Display: HotReload took  0.1s.
+[2022.02.05-07.38.15:308][471]LogHotReload: New module detected: UE4Editor-HaloCE-0010.dll
+[2022.02.05-07.38.15:997][474]LogHotReload: Starting Hot-Reload from IDE
+[2022.02.05-07.38.16:216][474]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HaloCE' in 0.0003 seconds. Added 13 classes and 2 folders.
+[2022.02.05-07.38.16:235][474]Display: HotReload successful (11 functions remapped  0 scriptstructs remapped)
+[2022.02.05-07.38.16:620][474]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0092 seconds. Added 3835 classes and 930 folders.
+[2022.02.05-07.38.16:622][474]Display: HotReload took  0.6s.
+[2022.02.05-07.38.20:844][652]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.05-07.38.20:877][652]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.05-07.38.20:877][652]PIE: New page: PIE session: FirstPersonExampleMap (Feb 4, 2022, 7:38:20 PM)
+[2022.02.05-07.38.20:907][652]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.02.05-07.38.20:912][652]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.02.05-07.38.20:924][652]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.02.05-07.38.20:977][652]LogPlayLevel: PIE: StaticDuplicateObject took: (0.053495s)
+[2022.02.05-07.38.20:983][652]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.02.05-07.38.20:989][652]LogPlayLevel: PIE: World Init took: (0.011344s)
+[2022.02.05-07.38.20:989][652]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.065371s)
+[2022.02.05-07.38.21:599][652]LogUObjectHash: Compacting FUObjectHashTables data took  17.03ms
+[2022.02.05-07.38.21:615][652]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.02.05-07.38.21:615][652]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.05-07.38.21:615][652]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.05-07.38.21:615][652]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.05-07.38.21:615][652]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.05-07.38.21:615][652]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.05-07.38.21:615][652]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.05-07.38.21:615][652]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.05-07.38.21:615][652]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.05-07.38.21:615][652]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.05-07.38.21:615][652]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.05-07.38.21:615][652]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.05-07.38.21:615][652]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.05-07.38.21:625][652]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.05-07.38.21:625][652]LogAudioMixer: Display: 1: FrontRight
+[2022.02.05-07.38.21:632][652]LogAudioMixer: Display: Using Audio Device Audífono de los auriculares con micrófono (Astro MixAmp Pro Voice)
+[2022.02.05-07.38.21:633][652]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.05-07.38.21:633][652]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.05-07.38.21:633][652]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.05-07.38.21:633][652]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.05-07.38.21:633][652]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.05-07.38.21:633][652]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.05-07.38.21:634][652]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.05-07.38.21:634][652]LogInit: FAudioDevice initialized.
+[2022.02.05-07.38.21:634][652]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.05-07.38.21:635][652]LogAudio: Display: Audio Device (ID: 2) registered with world 'FirstPersonExampleMap'.
+[2022.02.05-07.38.21:660][652]LogLoad: Game class is 'HaloCEGameMode'
+[2022.02.05-07.38.21:667][652]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.02.05-01.38.21
+[2022.02.05-07.38.21:680][652]LogWorld: Bringing up level for play took: 0.019523
+[2022.02.05-07.38.21:689][652]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2022.02.05-07.38.21:828][652]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2022.02.05-07.38.21:858][652]PIE: Server logged in
+[2022.02.05-07.38.21:866][652]PIE: Play in editor total start time 1.013 seconds.
