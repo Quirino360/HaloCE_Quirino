@@ -16,4 +16,5 @@ class HALOCE_API USniperRifle : public UWeapon
 public:
 	USniperRifle();
 	
+	virtual void SpawnBullets(FRotator SpawnRotation, FVector SpawnLocation, FVector direction) override;
 };

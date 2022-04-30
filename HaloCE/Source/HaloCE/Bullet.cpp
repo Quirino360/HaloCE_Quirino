@@ -37,6 +37,7 @@ ABullet::ABullet()
 void ABullet::BeginPlay()
 {
 	Super::BeginPlay();
+	SetLifeSpan(5.0f);
 	
 }
 

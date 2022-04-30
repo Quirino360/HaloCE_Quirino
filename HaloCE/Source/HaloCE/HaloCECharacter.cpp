@@ -11,6 +11,15 @@
 #include "Kismet/GameplayStatics.h"
 #include "Runtime/Engine/Public/EngineGlobals.h"
 
+#include "Sound/SoundBase.h"
+#include "Kismet/KismetMathLibrary.h"
+#include "GameFramework/Controller.h"
+#include "Engine/World.h"
+#include "Math/UnrealMathUtility.h"
+#include "Math/Rotator.h"
+
+
+
 #include "Weapon.h"
 #include "AssaultRifle.h"
 #include "Pistol.h"
@@ -18,7 +27,7 @@
 #include "Shotgun.h"
 #include "SniperRifle.h"
 #include "Bullet.h"
-
+#include "FragGrenade.h"
 
 DEFINE_LOG_CATEGORY_STATIC(LogFPChar, Warning, All);
 
@@ -27,7 +36,6 @@ DEFINE_LOG_CATEGORY_STATIC(LogFPChar, Warning, All);
 
 AHaloCECharacter::AHaloCECharacter()
 {
-	// Set size for collision capsule
 	GetCapsuleComponent()->InitCapsuleSize(55.f, 96.0f);
 
 	// set our turn rates for input
@@ -54,16 +62,12 @@ AHaloCECharacter::AHaloCECharacter()
 	FP_Gun->SetOnlyOwnerSee(false);			// otherwise won't be visible in the multiplayer
 	FP_Gun->bCastDynamicShadow = false;
 	FP_Gun->CastShadow = false;
-	// FP_Gun->SetupAttachment(Mesh1P, TEXT("GripPoint"));
 	FP_Gun->SetupAttachment(Mesh1P);
-
 
 
 	FP_MuzzleLocation = CreateDefaultSubobject<USceneComponent>(TEXT("MuzzleLocation"));
 	FP_MuzzleLocation->SetupAttachment(FP_Gun);
 	FP_MuzzleLocation->SetRelativeLocation(FVector(0.2f, 48.4f, -10.6f));
-
-
 
 	// Default offset from the character location for projectiles to spawn
 	GunOffset = FVector(100.0f, 0.0f, 10.0f);
@@ -71,22 +75,23 @@ AHaloCECharacter::AHaloCECharacter()
 	// Set my variables
 	m_isAiming = false;
 	
-	m_weapon = CreateDefaultSubobject<UAssaultRifle>(TEXT("WeaponComponent"));
-	
+	m_weaponOne = CreateDefaultSubobject<UAssaultRifle>(TEXT("Weapon1Component"));
+	m_weaponTwo = CreateDefaultSubobject<UShotgun>(TEXT("Weapon2Component"));
+
+	m_currentWeapon = m_weaponOne;
+
 	m_maxHeath = 100;
 	m_currentHealth = m_maxHeath;
 	m_maxShield = 100;
 	m_currentShield = m_maxShield;
-	m_shieldReloadCooldown = 2.5;
+	m_shieldReloadCooldown = 3.5;
 	m_shieldReloadSpeed = 5;
 	m_fireRateTimer = 0;
-
 
   TriggerCapsule = CreateDefaultSubobject<UCapsuleComponent>(TEXT("TriggerCapsule"));
   TriggerCapsule->InitCapsuleSize(55.5f, 96.0f);
   TriggerCapsule->SetCollisionProfileName(TEXT("Trigger"));
   TriggerCapsule->SetupAttachment(RootComponent);
-
 
   TriggerCapsule->OnComponentBeginOverlap.AddDynamic(this, &AHaloCECharacter::OnOverlapBegin);
   TriggerCapsule->OnComponentEndOverlap.AddDynamic(this, &AHaloCECharacter::OnOverlapEnd);
@@ -98,35 +103,50 @@ void AHaloCECharacter::BeginPlay()
 	Super::BeginPlay();
 
 	//Attach gun mesh component to Skeleton, doing it here because the skeleton is not yet created in the constructor
-	FP_Gun->AttachToComponent(Mesh1P, FAttachmentTransformRules(EAttachmentRule::SnapToTarget, true), TEXT("GripPoint"));
+	//FP_Gun->AttachToComponent(Mesh1P, FAttachmentTransformRules(EAttachmentRule::SnapToTarget, true), TEXT("GripPoint"));
 }
 
 void AHaloCECharacter::Tick(float DeltaTime)
 {
   Super::Tick(DeltaTime);
 
+
+  FP_Gun->SetRelativeLocation(FVector(-20.0f, 70.0f, 120.0f));
+
   m_fireRateTimer += DeltaTime;
 
-
-  //GEngine->AddOnScreenDebugMessage(-1, 12.f, FColor::White, FString::SanitizeFloat(fireRateTimer));
-  //GEngine->AddOnScreenDebugMessage(-1, 12.f, FColor::White, FString::Printf(TEXT("Bool: %s"), weapon->isAutomatic ? TEXT("true") : TEXT("false")));
-
-	if (!m_weapon)
+	if (!m_currentWeapon)
 	{
 		GEngine->AddOnScreenDebugMessage(-1, 12.f, FColor::White, TEXT("Weap is invalid"));
 	}
 	else
 	{
-    if (m_weapon->GetCanShoot() == true && m_weapon->GetIsAutomatic() == true && m_fireRateTimer >= m_weapon->GetFireRate())
+    if (m_currentWeapon->GetCanShoot() == true && m_currentWeapon->GetIsAutomatic() == true && m_fireRateTimer >= m_currentWeapon->GetFireRate())
     {
       ShootWeapon();
       m_fireRateTimer = 0;
     }
-    else if (m_weapon->GetCanShoot() == true && m_weapon->GetIsAutomatic() == false)
+    else if (m_currentWeapon->GetCanShoot() == true && m_currentWeapon->GetIsAutomatic() == false)
     {
       ShootWeapon();
-      m_weapon->SetCanShoot(false); //**//
+			m_currentWeapon->SetCanShoot(false); //**//
     }
+	}
+
+	// recharge shield system
+	if (m_currentShield < m_maxShield)
+	{
+		RegenTimer += DeltaTime;
+		if (RegenTimer >= m_shieldReloadCooldown)
+		{
+			float RechargeSpeed = 1;
+			m_currentShield += RechargeSpeed * DeltaTime;
+			if (m_currentShield > m_maxShield)
+			{
+				m_currentShield = m_maxShield;
+			}
+		}
+		
 	}
 
 }
@@ -136,6 +156,8 @@ void AHaloCECharacter::SetupPlayerInputComponent(class UInputComponent* PlayerIn
 	// set up gameplay key bindings
 	check(PlayerInputComponent);
 
+	
+
 	// Bind jump events
 	PlayerInputComponent->BindAction("Jump", IE_Pressed, this, &ACharacter::Jump);
 	PlayerInputComponent->BindAction("Jump", IE_Released, this, &ACharacter::StopJumping);
@@ -144,20 +166,22 @@ void AHaloCECharacter::SetupPlayerInputComponent(class UInputComponent* PlayerIn
 	PlayerInputComponent->BindAction("Fire", IE_Pressed, this, &AHaloCECharacter::OnFire);
 	PlayerInputComponent->BindAction("Fire", IE_Released, this, &AHaloCECharacter::OffWeapon);
 
+	// Bind Aim & Reload Events
 	PlayerInputComponent->BindAction("Aim", IE_Pressed, this, &AHaloCECharacter::Aim);
 	PlayerInputComponent->BindAction("Reload", IE_Pressed, this, &AHaloCECharacter::Reload);
 
+	//Bind grenade events
+	PlayerInputComponent->BindAction("ThrowGrenade", IE_Pressed, this, &AHaloCECharacter::ThrowGrenade);
 
-	// Enable touchscreen input
-	EnableTouchscreenMovement(PlayerInputComponent);
+  // Bind Change Weapon Event
+  PlayerInputComponent->BindAction("ChangeWeaponOne", IE_Pressed, this, &AHaloCECharacter::ChangeWeaponOne);
+  PlayerInputComponent->BindAction("ChangeWeaponTwo", IE_Pressed, this, &AHaloCECharacter::ChangeWeaponTwo);
 
-	// Bind movement events
+	// Bind movement Axis
 	PlayerInputComponent->BindAxis("MoveForward", this, &AHaloCECharacter::MoveForward);
 	PlayerInputComponent->BindAxis("MoveRight", this, &AHaloCECharacter::MoveRight);
 
-	// We have 2 versions of the rotation bindings to handle different kinds of devices differently
-	// "turn" handles devices that provide an absolute delta, such as a mouse.
-	// "turnrate" is for devices that we choose to treat as a rate of change, such as an analog joystick
+	// Bind Aim Axis
 	PlayerInputComponent->BindAxis("Turn", this, &APawn::AddControllerYawInput);
 	PlayerInputComponent->BindAxis("TurnRate", this, &AHaloCECharacter::TurnAtRate);
 	PlayerInputComponent->BindAxis("LookUp", this, &APawn::AddControllerPitchInput);
@@ -169,14 +193,14 @@ void AHaloCECharacter::SetupPlayerInputComponent(class UInputComponent* PlayerIn
 
 void AHaloCECharacter::OnFire()
 {
-  // try and fire a projectile
-  m_weapon->SetCanShoot(true);
+
+	m_currentWeapon->SetCanShoot(true);
 }
 
 
 void AHaloCECharacter::OffWeapon()
 {
-	m_weapon->SetCanShoot(false);
+	m_currentWeapon->SetCanShoot(false);
 }
 
 void AHaloCECharacter::ShootWeapon()
@@ -188,7 +212,7 @@ void AHaloCECharacter::ShootWeapon()
 
 	
 
-	m_weapon->Shoot(SpawnRotation, SpawnLocation, GetActorForwardVector());
+	m_currentWeapon->Shoot(SpawnRotation, SpawnLocation, GetActorForwardVector());
 
   // try and play a firing animation if specified
   if (FireAnimation != nullptr)
@@ -202,9 +226,38 @@ void AHaloCECharacter::ShootWeapon()
   }
 }
 
+void AHaloCECharacter::ThrowGrenade()
+{
+  UWorld* const World = GetWorld();
+  if (World == nullptr) {
+    return;
+  }
+
+  const FRotator SpawnRotation = GetControlRotation();
+  const FVector SpawnLocation = ((FP_MuzzleLocation != nullptr) ? FP_MuzzleLocation->GetComponentLocation() : GetActorLocation()) + SpawnRotation.RotateVector(GunOffset);
+
+
+  //Set Spawn Collision Handling Override
+  FActorSpawnParameters ActorSpawnParams;
+  ActorSpawnParams.SpawnCollisionHandlingOverride = ESpawnActorCollisionHandlingMethod::AdjustIfPossibleButDontSpawnIfColliding;
+
+  AFragGrenade* fragAux = World->SpawnActor<AFragGrenade>(m_grenade, SpawnLocation, SpawnRotation, ActorSpawnParams);
+
+	//FVector direction = GetActorForwardVector();
+	FVector direction = UKismetMathLibrary::GetForwardVector(SpawnRotation);
+  direction.Normalize();
+
+  if (fragAux != nullptr)
+  {
+		fragAux->SetDirction(direction);
+  }
+
+
+}
+
 void AHaloCECharacter::Aim()
 {
-	if (false == m_weapon->GetZoom())
+	if (false == m_currentWeapon->GetZoom())
 	{
 		return;
 	}
@@ -221,48 +274,53 @@ void AHaloCECharacter::Aim()
 	}
 }
 
-
-void AHaloCECharacter::BeginTouch(const ETouchIndex::Type FingerIndex, const FVector Location)
+void AHaloCECharacter::ChangeWeaponOne()
 {
-	if (TouchItem.bIsPressed == true)
+	if (m_currentWeapon != m_weaponOne)
 	{
-		return;
+		m_currentWeapon = m_weaponOne;
 	}
-	if ((FingerIndex == TouchItem.FingerIndex) && (TouchItem.bMoved == false))
-	{
-		OnFire();
-	}
-	TouchItem.bIsPressed = true;
-	TouchItem.FingerIndex = FingerIndex;
-	TouchItem.Location = Location;
-	TouchItem.bMoved = false;
 }
 
-void AHaloCECharacter::EndTouch(const ETouchIndex::Type FingerIndex, const FVector Location)
+void AHaloCECharacter::ChangeWeaponTwo()
 {
-	if (TouchItem.bIsPressed == false)
-	{
-		return;
-	}
-	TouchItem.bIsPressed = false;
+  if (m_currentWeapon != m_weaponTwo)
+  {
+    m_currentWeapon = m_weaponTwo;
+  }
 }
 
 void AHaloCECharacter::OnOverlapBegin(UPrimitiveComponent* OvelappedComponent, AActor* otherActor, UPrimitiveComponent* OtherComp, int32 OtherBodyIndex, bool bFromSweep, const FHitResult& SweepResult)
 {
-  /*if (otherActor && (otherActor != this) && OtherComp)
-  {
-    if (GEngine)
-    {
-      //GEngine->AddOnScreenDebugMessage(-1, 5.0f, FColor::Red, TEXT("Overlap Begin"));
-    }
-  }/**/
 
   if (otherActor && (otherActor != this) && OtherComp)
   {
     ABullet* testActor = Cast<ABullet>(otherActor);
     if (testActor)
     {
-      GEngine->AddOnScreenDebugMessage(-1, 5.0f, FColor::Red, TEXT("Bullet Overlaped"));
+			if (m_currentShield > 0)
+			{
+				m_currentShield -= testActor->GetDamage();
+			}
+			else if (m_currentHealth > 0)
+			{
+				if (m_currentShield < 0)
+				{
+          m_currentHealth += m_currentShield;
+					m_currentShield = 0;
+				}
+				m_currentHealth -= testActor->GetDamage();
+			}
+			else
+			{
+				Destroy();
+				// ends the game
+			}
+
+			RegenTimer = 0;
+			testActor->Destroy();
+
+      //GEngine->AddOnScreenDebugMessage(-1, 5.0f, FColor::Red, TEXT("Bullet Overlaped"));
     }
   }
 }
@@ -279,7 +337,6 @@ void AHaloCECharacter::MoveForward(float Value)
 {
 	if (Value != 0.0f)
 	{
-		// add movement in that direction
 		AddMovementInput(GetActorForwardVector(), Value);
 	}
 }
@@ -288,41 +345,22 @@ void AHaloCECharacter::MoveRight(float Value)
 {
 	if (Value != 0.0f)
 	{
-		// add movement in that direction
 		AddMovementInput(GetActorRightVector(), Value);
 	}
 }
 
 void AHaloCECharacter::TurnAtRate(float Rate)
 {
-	// calculate delta for this frame from the rate information
 	AddControllerYawInput(Rate * BaseTurnRate * GetWorld()->GetDeltaSeconds());
 }
 
 void AHaloCECharacter::LookUpAtRate(float Rate)
 {
-	// calculate delta for this frame from the rate information
 	AddControllerPitchInput(Rate * BaseLookUpRate * GetWorld()->GetDeltaSeconds());
 }
 
 void AHaloCECharacter::Reload()
 {
-	// cant reload if its full
-	m_weapon->Reload();
+	m_currentWeapon->Reload();
 
-}
-
-bool AHaloCECharacter::EnableTouchscreenMovement(class UInputComponent* PlayerInputComponent)
-{
-	if (FPlatformMisc::SupportsTouchInput() || GetDefault<UInputSettings>()->bUseMouseForTouch)
-	{
-		PlayerInputComponent->BindTouch(EInputEvent::IE_Pressed, this, &AHaloCECharacter::BeginTouch);
-		PlayerInputComponent->BindTouch(EInputEvent::IE_Released, this, &AHaloCECharacter::EndTouch);
-
-		//Commenting this out to be more consistent with FPS BP template.
-		//PlayerInputComponent->BindTouch(EInputEvent::IE_Repeat, this, &AHaloCECharacter::TouchUpdate);
-		return true;
-	}
-	
-	return false;
 }

@@ -98,8 +98,6 @@ public:
   USoundBase* FireSound;
 protected:
 
-
-
   UPROPERTY(EditDefaultsOnly, Category = Bullet)
   TSubclassOf<class ABullet> m_bullet;
 

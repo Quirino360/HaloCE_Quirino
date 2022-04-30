@@ -9,6 +9,10 @@
 
 #include "FragGrenade.generated.h"
 
+
+class UStaticMeshComponent;
+class USphereComponent;
+
 UCLASS()
 class HALOCE_API AFragGrenade : public AActor
 {
@@ -26,7 +30,17 @@ public:
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
 
+	void SetDirction(FVector _dir) {direction = _dir;}
+
 public:
+  UPROPERTY(EditAnywhere, Category = Mesh)
+  UStaticMeshComponent* grenadeMesh;
+
+  UPROPERTY(VisibleAnywhere, Category = "Trigger Capsule")
+  USphereComponent* DamageSphere;
+
 	FVector direction;
+
+
 
 };

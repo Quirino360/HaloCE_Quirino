@@ -30,6 +30,9 @@ public:
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
 
+	float GetDamage() {return m_damage;}
+
+
 	UFUNCTION()
 	void SetDirection(FVector& _dir) {
 		m_direction = _dir;

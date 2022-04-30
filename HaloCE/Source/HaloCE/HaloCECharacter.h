@@ -32,19 +32,26 @@ protected:
 	
 	virtual void Tick(float DeltaTime);
 
+	virtual void SetupPlayerInputComponent(UInputComponent* InputComponent) override;
 
 public:
-  USkeletalMeshComponent* GetMesh1P() const { return Mesh1P; }
 
-  UCameraComponent* GetFirstPersonCameraComponent() const { return FirstPersonCameraComponent; }
-
+  //
 	void OnFire();
 
 	void OffWeapon();
 
+	void Reload();
+
 	void ShootWeapon();
 
+  void ThrowGrenade();
+
 	void Aim();
+
+  void ChangeWeaponOne();
+
+  void ChangeWeaponTwo();
 
 	void MoveForward(float Val);
 
@@ -54,36 +61,20 @@ public:
 
 	void LookUpAtRate(float Rate);
 
-	void Reload();
+  USkeletalMeshComponent* GetMesh1P() const { return Mesh1P; }
 
+  UCameraComponent* GetFirstPersonCameraComponent() const { return FirstPersonCameraComponent; }
 
-	struct TouchData
-	{
-		TouchData() { bIsPressed = false;Location=FVector::ZeroVector;}
-		bool bIsPressed;
-		ETouchIndex::Type FingerIndex;
-		FVector Location;
-		bool bMoved;
-	};
-	void BeginTouch(const ETouchIndex::Type FingerIndex, const FVector Location);
-	void EndTouch(const ETouchIndex::Type FingerIndex, const FVector Location);
-	void TouchUpdate(const ETouchIndex::Type FingerIndex, const FVector Location);
-	TouchData	TouchItem;
+  void RestoreHealth() {m_currentHealth = m_maxHeath;}
 
-
+  //
   UFUNCTION()
   void OnOverlapBegin(UPrimitiveComponent* OvelappedComponent, AActor* otherActor, UPrimitiveComponent* OtherComp, int32 OtherBodyIndex, bool bFromSweep, const  FHitResult& SweepResult);
 
   UFUNCTION()
   void OnOverlapEnd(UPrimitiveComponent* OvelappedComponent, AActor* otherActor, UPrimitiveComponent* OtherComp, int32 OtherBodyIndex);
 
-protected:
-	virtual void SetupPlayerInputComponent(UInputComponent* InputComponent) override;
-
-	bool EnableTouchscreenMovement(UInputComponent* InputComponent);
-
 public:
-
   UPROPERTY(VisibleAnywhere, Category = "Trigger Capsule")
   class UCapsuleComponent* TriggerCapsule;
 
@@ -92,9 +83,6 @@ public:
 
   UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Gameplay)
   UAnimMontage* FireAnimation;
-
-  UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Weapon)
-  UWeapon* m_weapon;
 
   UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Gameplay)
   uint8 bUsingMotionControllers : 1;
@@ -128,6 +116,18 @@ public:
 
   float m_fireRateTimer;
 
+  UPROPERTY(EditDefaultsOnly, Category = Grenade)
+  TSubclassOf<class AFragGrenade> m_grenade;
+
+  UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Weapon)
+  UWeapon* m_currentWeapon;
+
+  UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Weapon)
+  UWeapon* m_weaponOne;
+
+  UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Weapon)
+  UWeapon* m_weaponTwo;
+
 private:
   UPROPERTY(VisibleDefaultsOnly, Category = Mesh)
   USkeletalMeshComponent* Mesh1P;
@@ -140,6 +140,9 @@ private:
 
   UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = Camera, meta = (AllowPrivateAccess = "true"))
   UCameraComponent* FirstPersonCameraComponent;
+
+private:
+  float RegenTimer = 0;
 
 protected:
 };

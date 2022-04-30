@@ -48,6 +48,12 @@ AEnemy::AEnemy()
 
   TriggerCapsule->OnComponentBeginOverlap.AddDynamic(this, &AEnemy::OnOverlapBegin);
   TriggerCapsule->OnComponentEndOverlap.AddDynamic(this, &AEnemy::OnOverlapEnd);
+
+  m_maxHealth = 500;
+  m_health = m_maxHealth;
+
+  m_maxShield = 100;
+  m_shield = m_maxShield;
 }
 
 // Called when the game starts or when spawned
@@ -112,12 +118,24 @@ void AEnemy::OnOverlapBegin(UPrimitiveComponent* OvelappedComponent, AActor* oth
     ABullet* testActor = Cast<ABullet>(otherActor);
     if (testActor)
     {
-      GEngine->AddOnScreenDebugMessage(-1, 5.0f, FColor::Red, TEXT("Bullet Overlaped"));
-    }
-
-    if (GEngine)
-    {
-      GEngine->AddOnScreenDebugMessage(-1, 5.0f, FColor::Red, TEXT("Begin Overlaped"));
+      if (m_shield > 0)
+      {
+        m_shield -= testActor->GetDamage();
+      }
+      else if (m_health > 0)
+      {
+        if (m_shield < 0)
+        {
+          m_health += m_health;
+          m_shield = 0;
+        }
+        m_health -= testActor->GetDamage();
+      }
+      else
+      {
+        Destroy();
+        // drops weapon
+      }
     }
   }
 }
